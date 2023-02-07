@@ -1,4 +1,4 @@
-# CS STUDY
+# ＠CS STUDY
 
 ## ▶ 부원
 |이름|
