@@ -1,4 +1,4 @@
-# ▷CS STUDY
+# <b>CS STUDY</b>
 
 ## ▶ 부원
 |이름|
