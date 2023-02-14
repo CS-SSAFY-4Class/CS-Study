@@ -27,7 +27,7 @@
 |<b>월|화|수|목|금|토|일|
 |---|---|---|---|---|---|---|
 |13|14|15|16|17|18|19|
-|[1번](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Computer_architecture/%EC%BB%B4%ED%93%A8%ED%84%B0%EC%9D%98%EA%B5%AC%EC%84%B1.md)|2번|3번|4번|5번|😴|😴|
+|[1번](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Computer_architecture/%EC%BB%B4%ED%93%A8%ED%84%B0%EC%9D%98%EA%B5%AC%EC%84%B1.md)|[2번](./Algorithm/시간복잡도/알고리즘의 성능 분석)|3번|4번|5번|😴|😴|
 |20|21|22|23|24|25|26|
 |6번|1번|2번|3번|4번|😴|😴|
 |27|28||||||
