@@ -78,8 +78,8 @@
 ### 💾 <b>COMPUTER SCIENCE</b>
 #### 1️⃣ Computer Architecture
 컴퓨터 구조 기초  
-[컴퓨터의 구성](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Computer_architecture/%EC%BB%B4%ED%93%A8%ED%84%B0%EC%9D%98%EA%B5%AC%EC%84%B1.md)  
-중앙처리장치(CPU) 작동 원리  [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Computer_architecture/c%EC%BB%B4%ED%93%A8%ED%84%B0%EC%9D%98%EA%B5%AC%EC%84%B1.md)
+[컴퓨터의 구성](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Computer_architecture/%EC%BB%B4%ED%93%A8%ED%84%B0%EC%9D%98%EA%B5%AC%EC%84%B1.md)  [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Computer_architecture/c%EC%BB%B4%ED%93%A8%ED%84%B0%EC%9D%98%EA%B5%AC%EC%84%B1.md)  
+중앙처리장치(CPU) 작동 원리  
 캐시 메모리  
 [고정 소수점 & 부동 소수점](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Computer_architecture/%EA%B3%A0%EC%A0%95%EC%86%8C%EC%88%98%EC%A0%90%26%EB%B6%80%EB%8F%99%EC%86%8C%EC%88%98%EC%A0%90.md)  
 패리티 비트 & 해밍 코드  
