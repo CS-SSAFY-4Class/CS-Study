@@ -124,7 +124,7 @@ Blocking & Non-Blocking I/O
 
 ##### 5️⃣ Operating System
 운영체제란  
-프로세스 vs 스레드  
+[프로세스 vs 스레드](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Operating_system/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4vs%EC%8A%A4%EB%A0%88%EB%93%9C.md)  
 프로세스 주소 공간  
 인터럽트(Interrupt)  
 시스템 콜(System Call)  
