@@ -7,14 +7,14 @@
 
 ## 👪 부원
 
-|<b>이름|순서|역할|
-|---|---|---|
-|<b>김한주</b>|<b>1번</b>|<b>스터디장</b>|
-|<b>박원서</b>|<b>2번</b>|<b>부원</b>|
-|<b>임준수</b>|<b>3번</b>|<b>부원</b>|
-|<b>서재현</b>|<b>4번</b>|<b>부원</b>|
-|<b>김관형</b>|<b>5번</b>|<b>부원</b>|
-|<b>류정모</b>|<b>6번</b>|<b>부원</b>|
+|<b>이름|순서|역할|주제 (2.13 ~ 2.19)|
+|---|---|---|---|
+|<b>김한주</b>|<b>1번</b>|<b>스터디장</b>|[컴퓨터의구성](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Computer_architecture/%EC%BB%B4%ED%93%A8%ED%84%B0%EC%9D%98%EA%B5%AC%EC%84%B1.md)|
+|<b>박원서</b>|<b>2번</b>|<b>부원</b>|[시간복잡도](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Algorithm/%EC%8B%9C%EA%B0%84%EB%B3%B5%EC%9E%A1%EB%8F%84/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%98%20%EC%84%B1%EB%8A%A5%20%EB%B6%84%EC%84%9D.md)|
+|<b>임준수</b>|<b>3번</b>|<b>부원</b>|[프로세스vs스레드](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Operating_system/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4vs%EC%8A%A4%EB%A0%88%EB%93%9C.md)|
+|<b>서재현</b>|<b>4번</b>|<b>부원</b>|[동적계획법](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Algorithm/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95(Dynamic%20Programming).md)|
+|<b>김관형</b>|<b>5번</b>|<b>부원</b>|[소수점](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Computer_architecture/%EA%B3%A0%EC%A0%95%EC%86%8C%EC%88%98%EC%A0%90%26%EB%B6%80%EB%8F%99%EC%86%8C%EC%88%98%EC%A0%90.md)|
+|<b>류정모</b>|<b>6번</b>|<b>부원</b>||
 <br>
 
 ## 📅 이달의 달력
@@ -27,7 +27,7 @@
 |<b>월|화|수|목|금|토|일|
 |---|---|---|---|---|---|---|
 |13|14|15|16|17|18|19|
-|[1번](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Computer_architecture/%EC%BB%B4%ED%93%A8%ED%84%B0%EC%9D%98%EA%B5%AC%EC%84%B1.md)|[2번](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Algorithm/%EC%8B%9C%EA%B0%84%EB%B3%B5%EC%9E%A1%EB%8F%84/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%98%20%EC%84%B1%EB%8A%A5%20%EB%B6%84%EC%84%9D.md)|3번|4번|5번|😴|😴|
+|1번|2번|3번|4번|5번|😴|😴|
 |20|21|22|23|24|25|26|
 |6번|1번|2번|3번|4번|😴|😴|
 |27|28||||||
@@ -78,10 +78,12 @@
 ### 💾 <b>COMPUTER SCIENCE</b>
 #### 1️⃣ Computer Architecture
 컴퓨터 구조 기초  
-[컴퓨터의 구성](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Computer_architecture/%EC%BB%B4%ED%93%A8%ED%84%B0%EC%9D%98%EA%B5%AC%EC%84%B1.md)  [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Computer_architecture/c%EC%BB%B4%ED%93%A8%ED%84%B0%EC%9D%98%EA%B5%AC%EC%84%B1.md)  
+[컴퓨터의 구성](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Computer_architecture/%EC%BB%B4%ED%93%A8%ED%84%B0%EC%9D%98%EA%B5%AC%EC%84%B1.md) 
+[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Computer_architecture/c%EC%BB%B4%ED%93%A8%ED%84%B0%EC%9D%98%EA%B5%AC%EC%84%B1.md)  
 중앙처리장치(CPU) 작동 원리  
 캐시 메모리  
-[고정 소수점 & 부동 소수점](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Computer_architecture/%EA%B3%A0%EC%A0%95%EC%86%8C%EC%88%98%EC%A0%90%26%EB%B6%80%EB%8F%99%EC%86%8C%EC%88%98%EC%A0%90.md) [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Computer_architecture/c%EA%B3%A0%EC%A0%95%EC%86%8C%EC%88%98%EC%A0%90%26%EB%B6%80%EB%8F%99%EC%86%8C%EC%88%98%EC%A0%90.md)   
+[고정 소수점 & 부동 소수점](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Computer_architecture/%EA%B3%A0%EC%A0%95%EC%86%8C%EC%88%98%EC%A0%90%26%EB%B6%80%EB%8F%99%EC%86%8C%EC%88%98%EC%A0%90.md)
+[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Computer_architecture/c%EA%B3%A0%EC%A0%95%EC%86%8C%EC%88%98%EC%A0%90%26%EB%B6%80%EB%8F%99%EC%86%8C%EC%88%98%EC%A0%90.md)   
 패리티 비트 & 해밍 코드  
 ARM 프로세서  
 
@@ -124,7 +126,8 @@ Blocking & Non-Blocking I/O
 
 ##### 5️⃣ Operating System
 운영체제란  
-[프로세스 vs 스레드](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Operating_system/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4vs%EC%8A%A4%EB%A0%88%EB%93%9C.md)  
+[프로세스 vs 스레드](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Operating_system/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4vs%EC%8A%A4%EB%A0%88%EB%93%9C.md)
+[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Operating_system/c%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4vs%EC%8A%A4%EB%A0%88%EB%93%9C.md)  
 프로세스 주소 공간  
 인터럽트(Interrupt)  
 시스템 콜(System Call)  
@@ -159,7 +162,8 @@ TDD(Test Driven Development)
 [Javascript] Closure  
 
 ### 💾 <b>ALGORITHM</b>
-[알고리즘 성능 측정(시간복잡도)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Algorithm/%EC%8B%9C%EA%B0%84%EB%B3%B5%EC%9E%A1%EB%8F%84/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%98%20%EC%84%B1%EB%8A%A5%20%EB%B6%84%EC%84%9D.md)  
+[알고리즘 성능 측정(시간복잡도)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Algorithm/%EC%8B%9C%EA%B0%84%EB%B3%B5%EC%9E%A1%EB%8F%84/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%98%20%EC%84%B1%EB%8A%A5%20%EB%B6%84%EC%84%9D.md)
+[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Algorithm/c%EC%8B%9C%EA%B0%84%EB%B3%B5%EC%9E%A1%EB%8F%84.md)  
 거품 정렬(Bubble Sort)  
 선택 정렬(Selection Sort)  
 삽입 정렬(Insertion Sort)  
@@ -173,7 +177,8 @@ TDD(Test Driven Development)
 DFS & BFS  
 최장 증가 수열(LIS)  
 최소 공통 조상(LCA)  
-[동적 계획법(Dynamic Programming)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Algorithm/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95(Dynamic%20Programming).md) [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Algorithm/c%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95.md)  
+[동적 계획법(Dynamic Programming)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Algorithm/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95(Dynamic%20Programming).md) [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Algorithm/c%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95.md)
+[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Algorithm/c%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95.md)  
 다익스트라(Dijkstra) 알고리즘  
 비트마스크(BitMask)  
 
