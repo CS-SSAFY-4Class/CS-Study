@@ -13,8 +13,8 @@
 |<b>박원서</b>|<b>2번</b>|<b>부원</b>|[시간복잡도](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Algorithm/%EC%8B%9C%EA%B0%84%EB%B3%B5%EC%9E%A1%EB%8F%84/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%98%20%EC%84%B1%EB%8A%A5%20%EB%B6%84%EC%84%9D.md)|
 |<b>임준수</b>|<b>3번</b>|<b>부원</b>|[프로세스vs스레드](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Operating_system/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4vs%EC%8A%A4%EB%A0%88%EB%93%9C.md)|
 |<b>서재현</b>|<b>4번</b>|<b>부원</b>|[동적계획법](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Algorithm/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95(Dynamic%20Programming).md)|
-|<b>김관형</b>|<b>5번</b>|<b>부원</b>|[소수점](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Computer_architecture/%EA%B3%A0%EC%A0%95%EC%86%8C%EC%88%98%EC%A0%90%26%EB%B6%80%EB%8F%99%EC%86%8C%EC%88%98%EC%A0%90.md)|
-|<b>류정모</b>|<b>6번</b>|<b>부원</b>||
+|<b>김관형</b>|<b>5번</b>|<b>부원</b>||
+|<b>류정모</b>|<b>6번</b>|<b>부원</b>|[소수점](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Computer_architecture/%EA%B3%A0%EC%A0%95%EC%86%8C%EC%88%98%EC%A0%90%26%EB%B6%80%EB%8F%99%EC%86%8C%EC%88%98%EC%A0%90.md)|
 <br>
 
 ## 📅 이달의 달력
