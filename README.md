@@ -204,9 +204,18 @@ CSRF & XSS
 
 ## 📺 학습 강의
 ### 💾 운영체제  
-[이화여대 반효경 교수님의 운영체제 강의](http://www.kocw.net/home/cview.do?cid=3646706b4347ef09)
+[이화여대 반효경 교수님의 운영체제 강의](http://www.kocw.net/home/cview.do?cid=3646706b4347ef09)  
+  
+[운영체제 소개](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Lecture/Operating_System/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EC%9D%98%EC%86%8C%EA%B0%9C.md) 
+[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Lecture/Operating_System/c%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EC%9D%98%EC%86%8C%EA%B0%9C.md)  
+[시스템의 구조와 프로그램 실행](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Lecture/Operating_System/%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%98_%EA%B5%AC%EC%A1%B0%EC%99%80_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8_%EC%8B%A4%ED%96%89.md) 
+[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Lecture/Operating_System/c%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%98_%EA%B5%AC%EC%A1%B0%EC%99%80_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8_%EC%8B%A4%ED%96%89.md)  
+[시스템의 구조와 프로그램 실행2](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Lecture/Operating_System/%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%98_%EA%B5%AC%EC%A1%B0%EC%99%80_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8_%EC%8B%A4%ED%96%892.md)
+[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Lecture/Operating_System/c%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%98_%EA%B5%AC%EC%A1%B0%EC%99%80_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8_%EC%8B%A4%ED%96%892.md)
+  
 ### 💾 네트워크  
 [한국항공대 김철기 교수님의 컴퓨터 네트워크](http://www.kocw.net/home/search/kemView.do?kemId=1159726)
+
 ### 💾 컴퓨터 구조  
 [고려대 구건재 교수님 컴퓨터 구조](http://www.kocw.net/home/m/search/kemView.do?kemId=1389263)
 
