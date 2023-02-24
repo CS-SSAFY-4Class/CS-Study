@@ -211,7 +211,9 @@ CSRF & XSS
 [시스템의 구조와 프로그램 실행](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Lecture/Operating_System/%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%98_%EA%B5%AC%EC%A1%B0%EC%99%80_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8_%EC%8B%A4%ED%96%89.md) 
 [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Lecture/Operating_System/c%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%98_%EA%B5%AC%EC%A1%B0%EC%99%80_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8_%EC%8B%A4%ED%96%89.md)  
 [시스템의 구조와 프로그램 실행2](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Lecture/Operating_System/%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%98_%EA%B5%AC%EC%A1%B0%EC%99%80_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8_%EC%8B%A4%ED%96%892.md)
-[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Lecture/Operating_System/c%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%98_%EA%B5%AC%EC%A1%B0%EC%99%80_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8_%EC%8B%A4%ED%96%892.md)
+[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Lecture/Operating_System/c%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%98_%EA%B5%AC%EC%A1%B0%EC%99%80_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8_%EC%8B%A4%ED%96%892.md)  
+[프로세스1](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Lecture/Operating_System/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A41.md) 
+[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Lecture/Operating_System/c%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A41.md)  
   
 ### 💾 네트워크  
 [한국항공대 김철기 교수님의 컴퓨터 네트워크](http://www.kocw.net/home/search/kemView.do?kemId=1159726)
