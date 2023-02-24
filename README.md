@@ -7,14 +7,14 @@
 
 ## 👪 부원
 
-|<b>이름|순서|역할|주제 (2.13 ~ 2.19)|
+|<b>이름|순서|역할|주제(week 2)|
 |---|---|---|---|
-|<b>김한주</b>|<b>1번</b>|<b>스터디장</b>|[컴퓨터의구성](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Computer_architecture/%EC%BB%B4%ED%93%A8%ED%84%B0%EC%9D%98%EA%B5%AC%EC%84%B1.md)|
-|<b>박원서</b>|<b>2번</b>|<b>부원</b>|[시간복잡도](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Algorithm/%EC%8B%9C%EA%B0%84%EB%B3%B5%EC%9E%A1%EB%8F%84/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%98%20%EC%84%B1%EB%8A%A5%20%EB%B6%84%EC%84%9D.md)|
-|<b>임준수</b>|<b>3번</b>|<b>부원</b>|[프로세스vs스레드](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Operating_system/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4vs%EC%8A%A4%EB%A0%88%EB%93%9C.md)|
-|<b>서재현</b>|<b>4번</b>|<b>부원</b>|[동적계획법](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Algorithm/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95(Dynamic%20Programming).md)|
-|<b>김관형</b>|<b>5번</b>|<b>부원</b>|[중앙처리장치의 작동원리](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Computer_architecture/%EC%A4%91%EC%95%99%EC%B2%98%EB%A6%AC%EC%9E%A5%EC%B9%98%EC%9D%98%EC%9E%91%EB%8F%99%EC%9B%90%EB%A6%AC.md)
-|<b>류정모</b>|<b>6번</b>|<b>부원</b>|[소수점](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Computer_architecture/%EA%B3%A0%EC%A0%95%EC%86%8C%EC%88%98%EC%A0%90%26%EB%B6%80%EB%8F%99%EC%86%8C%EC%88%98%EC%A0%90.md)|
+|<b>김한주</b>|<b>1번</b>|<b>스터디장</b>|[운영체제 소개](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Lecture/Operating_System/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EC%9D%98%EC%86%8C%EA%B0%9C.md)|
+|<b>박원서</b>|<b>2번</b>|<b>부원</b>|[시스템의 구조와 프로그램 실행](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Lecture/Operating_System/%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%98_%EA%B5%AC%EC%A1%B0%EC%99%80_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8_%EC%8B%A4%ED%96%89.md)|
+|<b>임준수</b>|<b>3번</b>|<b>부원</b>|[시스템의 구조와 프로그램 실행2](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Lecture/Operating_System/%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%98_%EA%B5%AC%EC%A1%B0%EC%99%80_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8_%EC%8B%A4%ED%96%892.md)|
+|<b>서재현</b>|<b>4번</b>|<b>부원</b>|[]()|
+|<b>김관형</b>|<b>5번</b>|<b>부원</b>|[]()|
+|<b>류정모</b>|<b>6번</b>|<b>부원</b>|[]()|
 <br>
 
 ## 📅 이달의 달력
@@ -204,9 +204,18 @@ CSRF & XSS
 
 ## 📺 학습 강의
 ### 💾 운영체제  
-[이화여대 반효경 교수님의 운영체제 강의](http://www.kocw.net/home/cview.do?cid=3646706b4347ef09)
+[이화여대 반효경 교수님의 운영체제 강의](http://www.kocw.net/home/cview.do?cid=3646706b4347ef09)  
+  
+[운영체제 소개](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Lecture/Operating_System/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EC%9D%98%EC%86%8C%EA%B0%9C.md) 
+[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Lecture/Operating_System/c%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EC%9D%98%EC%86%8C%EA%B0%9C.md)  
+[시스템의 구조와 프로그램 실행](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Lecture/Operating_System/%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%98_%EA%B5%AC%EC%A1%B0%EC%99%80_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8_%EC%8B%A4%ED%96%89.md) 
+[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Lecture/Operating_System/c%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%98_%EA%B5%AC%EC%A1%B0%EC%99%80_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8_%EC%8B%A4%ED%96%89.md)  
+[시스템의 구조와 프로그램 실행2](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Lecture/Operating_System/%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%98_%EA%B5%AC%EC%A1%B0%EC%99%80_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8_%EC%8B%A4%ED%96%892.md)
+[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Lecture/Operating_System/c%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%98_%EA%B5%AC%EC%A1%B0%EC%99%80_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8_%EC%8B%A4%ED%96%892.md)
+  
 ### 💾 네트워크  
 [한국항공대 김철기 교수님의 컴퓨터 네트워크](http://www.kocw.net/home/search/kemView.do?kemId=1159726)
+
 ### 💾 컴퓨터 구조  
 [고려대 구건재 교수님 컴퓨터 구조](http://www.kocw.net/home/m/search/kemView.do?kemId=1389263)
 
