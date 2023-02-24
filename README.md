@@ -12,7 +12,7 @@
 |<b>김한주</b>|<b>1번</b>|<b>스터디장</b>|[운영체제 소개](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Lecture/Operating_System/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EC%9D%98%EC%86%8C%EA%B0%9C.md)|
 |<b>박원서</b>|<b>2번</b>|<b>부원</b>|[시스템의 구조와 프로그램 실행](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Lecture/Operating_System/%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%98_%EA%B5%AC%EC%A1%B0%EC%99%80_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8_%EC%8B%A4%ED%96%89.md)|
 |<b>임준수</b>|<b>3번</b>|<b>부원</b>|[시스템의 구조와 프로그램 실행2](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Lecture/Operating_System/%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%98_%EA%B5%AC%EC%A1%B0%EC%99%80_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8_%EC%8B%A4%ED%96%892.md)|
-|<b>서재현</b>|<b>4번</b>|<b>부원</b>|[]()|[프로세스1](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Lecture/Operating_System/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A41.md)
+|<b>서재현</b>|<b>4번</b>|<b>부원</b>|[프로세스1](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Lecture/Operating_System/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A41.md)|
 |<b>김관형</b>|<b>5번</b>|<b>부원</b>|[]()|
 |<b>류정모</b>|<b>6번</b>|<b>부원</b>|[]()|
 <br>
