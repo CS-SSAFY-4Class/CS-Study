@@ -6,7 +6,7 @@
 
 파이썬에선 이런 식으로 메모이제이션을 실행할 수도 있으니 참고해주시면 좋겠습니다!
 >```python
->from functools import lru_cache as cache
+>from functools import lru_cache as cache 
 >
 >@cache(maxsize=None)
 > def recursion():
