@@ -233,7 +233,7 @@ CSRF & XSS
 [프로세스2](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Lecture/Operating_System/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A42.md) 
 [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Lecture/Operating_System/c%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A42.md)  
 [프로세스3](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Lecture/Operating_System/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A43.md)
-[comment]
+[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Lecture/Operating_System/c%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A43.md)
   
   
 ### 💾 네트워크  
