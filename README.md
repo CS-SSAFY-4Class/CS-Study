@@ -22,18 +22,6 @@
 업로드 순번을 기입해놓은 달력입니다.  
 보시고 업로드 까먹지 마시길 바랍니다!
 
-### 2월
-
-|<b>월|화|수|목|금|토|일|
-|---|---|---|---|---|---|---|
-|13|14|15|16|17|18|19|
-|1번|2번|3번|4번|5번|😴|😴|
-|20|21|22|23|24|25|26|
-|6번|1번|2번|3번|4번|😴|😴|
-|27|28||||||
-|5번|6번||||||
-<br>
-
 ### 3월
 
 |<b>월|화|수|목|금|토|일|
@@ -98,7 +86,8 @@
 [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Computer_architecture/c%EC%BB%B4%ED%93%A8%ED%84%B0%EC%9D%98%EA%B5%AC%EC%84%B1.md)  
 [중앙처리장치(CPU) 작동 원리](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Computer_architecture/%EC%A4%91%EC%95%99%EC%B2%98%EB%A6%AC%EC%9E%A5%EC%B9%98%EC%9D%98%EC%9E%91%EB%8F%99%EC%9B%90%EB%A6%AC.md) 
 [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Computer_architecture/c%EC%A4%91%EC%95%99%EC%B2%98%EB%A6%AC%EC%9E%A5%EC%B9%98%EC%9D%98%EC%9E%91%EB%8F%99%EC%9B%90%EB%A6%AC.md)    
-캐시 메모리  
+[캐시 메모리](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Computer_architecture/%EC%BA%90%EC%8B%9C%EB%A9%94%EB%AA%A8%EB%A6%AC.md) 
+[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Computer_architecture/c%EC%BA%90%EC%8B%9C%EB%A9%94%EB%AA%A8%EB%A6%AC.md)  
 [고정 소수점 & 부동 소수점](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Computer_architecture/%EA%B3%A0%EC%A0%95%EC%86%8C%EC%88%98%EC%A0%90%26%EB%B6%80%EB%8F%99%EC%86%8C%EC%88%98%EC%A0%90.md)
 [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Computer_architecture/c%EA%B3%A0%EC%A0%95%EC%86%8C%EC%88%98%EC%A0%90%26%EB%B6%80%EB%8F%99%EC%86%8C%EC%88%98%EC%A0%90.md)   
 패리티 비트 & 해밍 코드  
