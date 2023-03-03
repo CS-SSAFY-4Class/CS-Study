@@ -7,14 +7,14 @@
 
 ## 👪 부원
 
-|<b>이름|순서|역할|주제(week 2)|
-|---|---|---|---|
-|<b>김한주</b>|<b>1번</b>|<b>스터디장</b>|[운영체제 소개](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Lecture/Operating_System/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EC%9D%98%EC%86%8C%EA%B0%9C.md)|
-|<b>박원서</b>|<b>2번</b>|<b>부원</b>|[시스템의 구조와 프로그램 실행](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Lecture/Operating_System/%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%98_%EA%B5%AC%EC%A1%B0%EC%99%80_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8_%EC%8B%A4%ED%96%89.md)|
-|<b>임준수</b>|<b>3번</b>|<b>부원</b>|[시스템의 구조와 프로그램 실행2](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Lecture/Operating_System/%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%98_%EA%B5%AC%EC%A1%B0%EC%99%80_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8_%EC%8B%A4%ED%96%892.md)|
-|<b>서재현</b>|<b>4번</b>|<b>부원</b>|[프로세스1](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Lecture/Operating_System/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A41.md)|
-|<b>김관형</b>|<b>5번</b>|<b>부원</b>|[프로세스2](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Lecture/Operating_System/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A42.md)|
-|<b>류정모</b>|<b>6번</b>|<b>부원</b>|[프로세스3](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Lecture/Operating_System/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A43.md)|
+|<b>이름|순서|역할|대주제|주제(week 2)|
+|---|---|---|---|---|
+|<b>김한주</b>|<b>1번</b>|<b>스터디장</b>|Computer Architecture|[운영체제 소개](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Lecture/Operating_System/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EC%9D%98%EC%86%8C%EA%B0%9C.md)|
+|<b>박원서</b>|<b>2번</b>|<b>부원</b>|Software Engineering|[시스템의 구조와 프로그램 실행](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Lecture/Operating_System/%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%98_%EA%B5%AC%EC%A1%B0%EC%99%80_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8_%EC%8B%A4%ED%96%89.md)|
+|<b>임준수</b>|<b>3번</b>|<b>부원</b>|Operating System|[시스템의 구조와 프로그램 실행2](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Lecture/Operating_System/%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%98_%EA%B5%AC%EC%A1%B0%EC%99%80_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8_%EC%8B%A4%ED%96%892.md)|
+|<b>서재현</b>|<b>4번</b>|<b>부원</b>|Data Structure|[프로세스1](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Lecture/Operating_System/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A41.md)|
+|<b>김관형</b>|<b>5번</b>|<b>부원</b>|Web|[프로세스2](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Lecture/Operating_System/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A42.md)|
+|<b>류정모</b>|<b>6번</b>|<b>부원</b>|Algorithm|[프로세스3](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Lecture/Operating_System/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A43.md)|
 <br>
 
 ## 📅 이달의 달력
@@ -61,12 +61,20 @@
 
 매주 월~금까지 (주말은 각자 할 일 합시다)  
 
-✒️ <b>주제 선정</b> 
-1. 미리 뽑아놓은 주제 중 하나를 선택
-2. KOCW에서 미리 정해둔 강의 중 한 강을 시청  
+✒️ <b>주제 선정</b>  
 
-이 두 가지 방식을 격주로 돌아가면서 시행  
-※ 주제와 강의는 다른 스터디 및 웹사이트를 참고하였습니다.   
+각자 하나씩 대주제를 맡음  
+
+- 김한주 : Computer Architecture
+- 박원서 : Software Engineering
+- 임준수 : Operating System
+- 서재현 : Data Structure
+- 김관형 : Web
+- 류정모 : Algorithm  
+
+자기 차례에 하나의 하위 주제에 대해 학습
+
+※ 강의는 다른 스터디 및 웹사이트를 참고하였습니다.   
 
 ❓ <b>학습 방법</b>  
 
