@@ -12,6 +12,7 @@
 배열 : **동일한 자료형**을 같는 여러 개의 데이터를 **동일한 변수 이름**의 방에 **일렬로 저장**하는 자료의 집합체  
 
     "면접용 한마디 짜리 답:
+    
     (한글) 데이터를 나열하고 인덱스에 대응하도록 만들어진 데이터 구조
     (eng) This is the data structure to list data which are identified by at least one arry index or key"
 
