@@ -7,7 +7,7 @@
 
 ## 👪 부원
 
-|<b>이름|순서|역할|대주제|주제(week 2)|
+|<b>이름|순서|역할|대주제|주제(week 3)|
 |---|---|---|---|---|
 |<b>김한주</b>|<b>1번</b>|<b>스터디장</b>|Computer Architecture|[캐시 메모리](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Computer_architecture/%EC%BA%90%EC%8B%9C%EB%A9%94%EB%AA%A8%EB%A6%AC.md)|
 |<b>박원서</b>|<b>2번</b>|<b>부원</b>|Software Engineering|[클린코드]()|
