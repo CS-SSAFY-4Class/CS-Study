@@ -49,7 +49,7 @@
   위에서 언급하였지만 파이썬에서는 리스트, 튜플과 같은 자료형을 통해 배열을 사용할 수 있다. 파이썬에서는 배열의 최대길이를 지정하지 않기 때문에 데이터 추가/삭제시 편리하다. 아래 예시코드를 봅시다.  
   <br>
 
-  <예시 코드>
+**<예시 코드>**
 ```
 country = 'TWO HAND' 
 print (country)
@@ -58,7 +58,7 @@ country = country +' PLACE'
 print(country)
 ```
 
-<결과>
+**<결과>**
 ```
 TWO HAND
 TWO HAND PLACE
@@ -128,7 +128,6 @@ list_5 = [[0 for x in range(4)] for y in range(3)]
 
 ---
 ## 키포인트
-<br>
 
 1. 배열은 빠르다.  
 
