@@ -102,7 +102,7 @@
 ARM 프로세서  
 
 #### 2️⃣ Data Structure  
-[Array](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Data_structure/Array.md) 
+[배열(Array)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Data_structure/Array.md) 
 [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Data_structure/c%EB%B0%B0%EC%97%B4(Array).md)  
 LinkedList  
 Array & ArrayList & LinkedList  
