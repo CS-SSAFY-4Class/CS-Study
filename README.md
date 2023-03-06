@@ -102,7 +102,7 @@
 ARM 프로세서  
 
 #### 2️⃣ Data Structure  
-Array  
+[Array](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Data_structure/Array.md)  
 LinkedList  
 Array & ArrayList & LinkedList  
 스택(Stack) & 큐(Queue)  
