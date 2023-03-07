@@ -92,3 +92,10 @@ void bubbleSort(int[] arr) {
     - https://www.youtube.com/watch?v=Cq7SMsQBEUw
 - bubble_sort dance
     - https://www.youtube.com/watch?v=Iv3vgjM8Pv4
+
+
+### Thanks to
+- gyoogle github
+- wikipedia
+- NAVER Dictionary
+- Youtube
