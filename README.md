@@ -12,7 +12,7 @@
 |<b>김한주</b>|<b>1번</b>|<b>스터디장</b>|Computer Architecture|[캐시 메모리](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Computer_architecture/%EC%BA%90%EC%8B%9C%EB%A9%94%EB%AA%A8%EB%A6%AC.md)|
 |<b>박원서</b>|<b>2번</b>|<b>부원</b>|Software Engineering|[클린코드]()|
 |<b>임준수</b>|<b>3번</b>|<b>부원</b>|Operating System|[운영체제란](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Operating_system/01_%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C.md)|
-|<b>서재현</b>|<b>4번</b>|<b>부원</b>|Data Structure|[]()|
+|<b>서재현</b>|<b>4번</b>|<b>부원</b>|Data Structure|[배열(Array)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Data_structure/Array.md)|
 |<b>김관형</b>|<b>5번</b>|<b>부원</b>|Web|[]()|
 |<b>류정모</b>|<b>6번</b>|<b>부원</b>|Algorithm|[]()|
 <br>
