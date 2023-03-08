@@ -10,7 +10,7 @@
 |<b>이름|순서|역할|대주제|주제(week 3)|
 |---|---|---|---|---|
 |<b>김한주</b>|<b>1번</b>|<b>스터디장</b>|Computer Architecture|[캐시 메모리](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Computer_architecture/%EC%BA%90%EC%8B%9C%EB%A9%94%EB%AA%A8%EB%A6%AC.md)|
-|<b>박원서</b>|<b>2번</b>|<b>부원</b>|Software Engineering|[클린코드]()|
+|<b>박원서</b>|<b>2번</b>|<b>부원</b>|Software Engineering|[클린코드](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Software%20Engineering/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C%20%26%20%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81%20%26%20%EC%8B%9C%ED%81%90%EC%96%B4%20%EC%BD%94%EB%93%9C.md)|
 |<b>임준수</b>|<b>3번</b>|<b>부원</b>|Operating System|[운영체제란](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Operating_system/01_%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C.md)|
 |<b>서재현</b>|<b>4번</b>|<b>부원</b>|Data Structure|[배열(Array)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Data_structure/Array.md)|
 |<b>김관형</b>|<b>5번</b>|<b>부원</b>|Web|[쿠키와세션](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Web/%EC%BF%A0%ED%82%A4(Cookie)%26%EC%84%B8%EC%85%98(Session)/%EC%BF%A0%ED%82%A4%26%EC%84%B8%EC%85%98.md)|
