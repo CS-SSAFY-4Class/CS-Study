@@ -13,8 +13,8 @@
 |<b>박원서</b>|<b>2번</b>|<b>부원</b>|Software Engineering|[클린코드]()|
 |<b>임준수</b>|<b>3번</b>|<b>부원</b>|Operating System|[운영체제란](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Operating_system/01_%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C.md)|
 |<b>서재현</b>|<b>4번</b>|<b>부원</b>|Data Structure|[배열(Array)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Data_structure/Array.md)|
-|<b>김관형</b>|<b>5번</b>|<b>부원</b>|Web|[쿠키와세션]()|
-|<b>류정모</b>|<b>6번</b>|<b>부원</b>|Algorithm|[]()|
+|<b>김관형</b>|<b>5번</b>|<b>부원</b>|Web|[]()|
+|<b>류정모</b>|<b>6번</b>|<b>부원</b>|Algorithm|[BubbleSort](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Algorithm/Bubble_sort.md)|
 <br>
 
 ## 📅 이달의 달력
@@ -179,8 +179,8 @@ TDD(Test Driven Development)
 
 ### 💾 <b>ALGORITHM</b>
 [알고리즘 성능 측정(시간복잡도)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Algorithm/%EC%8B%9C%EA%B0%84%EB%B3%B5%EC%9E%A1%EB%8F%84/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%98%20%EC%84%B1%EB%8A%A5%20%EB%B6%84%EC%84%9D.md)
-[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Algorithm/c%EC%8B%9C%EA%B0%84%EB%B3%B5%EC%9E%A1%EB%8F%84.md)  
-거품 정렬(Bubble Sort)  
+[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Algorithm/c%EC%8B%9C%EA%B0%84%EB%B3%B5%EC%9E%A1%EB%8F%84.md)    
+[거품 정렬(Bubble Sort)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Algorithm/Bubble_sort.md) [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Algorithm/cBubble_sort.md)     
 선택 정렬(Selection Sort)  
 삽입 정렬(Insertion Sort)  
 퀵 정렬(Quick Sort)  
