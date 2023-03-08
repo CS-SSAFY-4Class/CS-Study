@@ -13,7 +13,7 @@
 |<b>박원서</b>|<b>2번</b>|<b>부원</b>|Software Engineering|[클린코드]()|
 |<b>임준수</b>|<b>3번</b>|<b>부원</b>|Operating System|[운영체제란](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Operating_system/01_%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C.md)|
 |<b>서재현</b>|<b>4번</b>|<b>부원</b>|Data Structure|[배열(Array)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Data_structure/Array.md)|
-|<b>김관형</b>|<b>5번</b>|<b>부원</b>|Web|[]()|
+|<b>김관형</b>|<b>5번</b>|<b>부원</b>|Web|[쿠키와세션](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Web/%EC%BF%A0%ED%82%A4(Cookie)%26%EC%84%B8%EC%85%98(Session)/%EC%BF%A0%ED%82%A4%26%EC%84%B8%EC%85%98.md)|
 |<b>류정모</b>|<b>6번</b>|<b>부원</b>|Algorithm|[BubbleSort](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Algorithm/Bubble_sort.md)|
 <br>
 
@@ -200,7 +200,7 @@ DFS & BFS
 
 ### 💾 WEB
 브라우저 동작 방법  
-쿠키(Cookie) & 세션(Session)  
+[쿠키(Cookie) & 세션(Session)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Web/%EC%BF%A0%ED%82%A4(Cookie)%26%EC%84%B8%EC%85%98(Session)/%EC%BF%A0%ED%82%A4%26%EC%84%B8%EC%85%98.md)  
 HTTP Request Methods  
 HTTP Status Code  
 REST API  
