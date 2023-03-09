@@ -30,7 +30,7 @@
 |---|---|---|
 |임준수|[운영체제란](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Operating_system/01_%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Operating_system/c%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C.md)|
 |서재현|[배열(Array)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Data_structure/Array.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Data_structure/c%EB%B0%B0%EC%97%B4(Array).md)|
-|김관형|[쿠키와세션](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Web/%EC%BF%A0%ED%82%A4(Cookie)%26%EC%84%B8%EC%85%98(Session)/%EC%BF%A0%ED%82%A4%26%EC%84%B8%EC%85%98.md)||
+|김관형|[쿠키와세션](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Web/%EC%BF%A0%ED%82%A4(Cookie)%26%EC%84%B8%EC%85%98(Session)/%EC%BF%A0%ED%82%A4%26%EC%84%B8%EC%85%98.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Web/c%EC%BF%A0%ED%82%A4%EC%99%80%EC%84%B8%EC%85%98.md)|
 |류정모|[BubbleSort](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Algorithm/Bubble_sort.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Algorithm/cBubble_sort.md)|
 |김한주|||
 <br>
@@ -219,7 +219,8 @@ DFS & BFS
 
 ### 💾 WEB
 브라우저 동작 방법  
-[쿠키(Cookie) & 세션(Session)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Web/%EC%BF%A0%ED%82%A4(Cookie)%26%EC%84%B8%EC%85%98(Session)/%EC%BF%A0%ED%82%A4%26%EC%84%B8%EC%85%98.md)  
+[쿠키(Cookie) & 세션(Session)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Web/%EC%BF%A0%ED%82%A4(Cookie)%26%EC%84%B8%EC%85%98(Session)/%EC%BF%A0%ED%82%A4%26%EC%84%B8%EC%85%98.md) 
+[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Web/c%EC%BF%A0%ED%82%A4%EC%99%80%EC%84%B8%EC%85%98.md)<br>
 HTTP Request Methods  
 HTTP Status Code  
 REST API  
