@@ -19,12 +19,6 @@
 
 ## 💬 이 주의 코멘트
 
-### 3월 1주차
-|<b>이름</b>|<b>주제</b>|<b>코멘트</b>|
-|---|---|---|
-|김한주|[캐시 메모리](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Computer_architecture/%EC%BA%90%EC%8B%9C%EB%A9%94%EB%AA%A8%EB%A6%AC.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Computer_architecture/c%EC%BA%90%EC%8B%9C%EB%A9%94%EB%AA%A8%EB%A6%AC.md)|
-|박원서|[클린코드](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Software_Engineering/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C%20%26%20%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81%20%26%20%EC%8B%9C%ED%81%90%EC%96%B4%20%EC%BD%94%EB%93%9C.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Software_Engineering/c%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C%20%26%20%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81%20%26%20%EC%8B%9C%ED%81%90%EC%96%B4%20%EC%BD%94%EB%94%A9.md)|
-
 ### 3월 2주차
 |<b>이름</b>|<b>주제</b>|<b>코멘트</b>|
 |---|---|---|
