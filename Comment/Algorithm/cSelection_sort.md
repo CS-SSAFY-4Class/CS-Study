@@ -1,1 +1,1 @@
-# comment Selection sort
+# Selection sort comment (선택정렬)
