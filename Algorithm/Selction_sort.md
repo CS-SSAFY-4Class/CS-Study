@@ -66,6 +66,7 @@
 ### 선택 정렬 코드
 - python
 <br/>
+
 ```python
 def selectionSort(x):
 	length = len(x)
@@ -82,6 +83,7 @@ def selectionSort(x):
 
 - java
 <br/>
+
 ```java
 void selectionSort(int[] list) {
     int indexMin, temp;
