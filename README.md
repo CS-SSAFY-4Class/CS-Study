@@ -36,7 +36,7 @@
 |임준수|[프로세스 주소 공간](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Operating_system/03_%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%A3%BC%EC%86%8C%EA%B3%B5%EA%B0%84.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Operating_system/c%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%A3%BC%EC%86%8C%EA%B3%B5%EA%B0%84.md)|
 |서재현|[]()|[comment]()|
 |김관형|[]()|[comment]()|
-|류정모|[]()|[comment]()|
+|류정모|[선택정렬](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Algorithm/Selction_sort.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Algorithm/cSelection_sort.md)|
 <br>
 
 ## 📅 이달의 달력
