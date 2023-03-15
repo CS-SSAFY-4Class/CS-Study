@@ -32,7 +32,7 @@
 ### 3월 3주차
 |<b>이름</b>|<b>주제</b>|<b>코멘트</b>|
 |---|---|---|
-|박원서|[]()|[comment]()|
+|박원서|[TDD](./Computer_science/Software_Engineering/TDD(Test_Driven_Development).md)|[comment](./Comment/Computer_science/Software_Engineering/cTDD(Test_Driven_Development).md)|
 |임준수|[]()|[comment]()|
 |서재현|[]()|[comment]()|
 |김관형|[]()|[comment]()|
@@ -185,7 +185,8 @@ Race Condition
 #### 6️⃣ Software Engineering
 [클린코드 & 리팩토링 / 클린코드 & 시큐어코딩](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Software_Engineering/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C%20%26%20%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81%20%26%20%EC%8B%9C%ED%81%90%EC%96%B4%20%EC%BD%94%EB%93%9C.md)
 [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Software_Engineering/c%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C%20%26%20%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81%20%26%20%EC%8B%9C%ED%81%90%EC%96%B4%20%EC%BD%94%EB%94%A9.md)<br>
-TDD(Test Driven Development)  
+[TDD(Test Driven Development)](./Computer_science/Software_Engineering/TDD(Test_Driven_Development).md)
+[comment](./Comment/Computer_science/Software_Engineering/cTDD(Test_Driven_Development).md)  
 애자일(Agile) 정리1 / 애자일(Agile) 정리2  
 객체 지향 프로그래밍(Object-Oriented Programming)  
 함수형 프로그래밍(Fuctional Programming)  
