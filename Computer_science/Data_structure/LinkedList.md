@@ -78,12 +78,14 @@ Array list에서는 엘리먼트라는 이름을 사용했지만 Linked list와 
     Vertex temp = new Vertex(input)
     ```  
     ![img](https://s3.ap-northeast-2.amazonaws.com/opentutorials-user-file/module/1335/2943.png)  
+<br>
 
 2. 새로운 노드의 다음 노드로 첫번째 노드를 가리킵니다.  
     ```
     temp.next = head
     ```  
     ![img](https://s3.ap-northeast-2.amazonaws.com/opentutorials-user-file/module/1335/2944.png)  
+<br>
 
 3. 새로 만들어진 노드가 첫번째 노드가 되도록 head의 값을 변경합니다.  
     ```
@@ -104,6 +106,7 @@ Array list에서는 엘리먼트라는 이름을 사용했지만 Linked list와 
     ```
     Vertex temp1 = head
     ```   
+<br>
 
 2. 23의 자리에 새로운 노드를 위치시키기 위해서는 6을 알고 있어야 합니다. 6의 next로 새로운 노드를 지정해야 하기 때문이죠. 아래는 6을 temp1으로 지정하기 위한 반복문입니다.  
     ```
@@ -113,12 +116,14 @@ Array list에서는 엘리먼트라는 이름을 사용했지만 Linked list와 
       temp1 = temp1.next
     ```  
     ![img](https://s3.ap-northeast-2.amazonaws.com/opentutorials-user-file/module/1335/2920.png)  
+<br>
 
 3. 6의 next를 이용해서 23을 찾아서 temp2로 지정합니다.  
     ```
     Vertex temp2 = temp1.next
     ```  
     ![img](https://s3.ap-northeast-2.amazonaws.com/opentutorials-user-file/module/1335/2921.png)  
+<br>
 
 4. 값이 90인 새로운 노드를 생성하고, 6의 next 노드로 지정합니다.
     ```
@@ -126,6 +131,7 @@ Array list에서는 엘리먼트라는 이름을 사용했지만 Linked list와 
     temp1.next = newVertex
     ```  
     ![img](https://s3.ap-northeast-2.amazonaws.com/opentutorials-user-file/module/1335/2923.png)  
+<br>
 
 5. 새로운 노드의 next 노드로 23번을 지정합니다. 이렇게 해서 90을 3번째 자리에 위치시켰습니다.  
     ```
@@ -153,12 +159,14 @@ Array list에서는 엘리먼트라는 이름을 사용했지만 Linked list와 
     Vertex tobedeleted = cur.next
     ```
     ![img](https://s3.ap-northeast-2.amazonaws.com/opentutorials-user-file/module/1335/2934.png)  
+<br>
 
 2. 두 번째 노드의 next를 23으로 변경합니다. 이제 90을 지웁니다.
     ```
     cur.next = cur.next.next
     ```
     ![img](https://s3.ap-northeast-2.amazonaws.com/opentutorials-user-file/module/1335/2935.png)  
+<br>
 
 3. 90을 삭제해서 메모리에서 제거합니다.
     ```
