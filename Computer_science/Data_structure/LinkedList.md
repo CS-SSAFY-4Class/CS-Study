@@ -97,10 +97,10 @@ Array list에서는 엘리먼트라는 이름을 사용했지만 Linked list와 
 ### 중간에 추가
 
 3번째 자리(inx=2)에 90을 추가해봅시다.
-<br>  
 
 ![img](https://s3.ap-northeast-2.amazonaws.com/opentutorials-user-file/module/1335/2930.png)  
 3번째 자리는 붉은 화살표가 표시된 부분입니다. 즉 6과 23 사이에 90을 위치시키는 것이 우리가 하려는 것입니다. 우선 3번째 자리를 찾아야 합니다.  
+<br>
 
 1. Head를 참조해서 첫 번째 노드를 찾습니다.  
     ```
