@@ -42,7 +42,7 @@
 ### 3월 4주차
 |<b>이름</b>|<b>주제</b>|<b>코멘트</b>|
 |---|---|---|
-|김한주|[패리티비트 & 해밍코드](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Computer_architecture/%ED%8C%A8%EB%A6%AC%ED%8B%B0%EB%B9%84%ED%8A%B8&%ED%95%B4%EB%B0%8D%EC%BD%94%EB%93%9C.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/tree/main/Comment/Computer_science/Computer_architecture)|
+|김한주|[패리티비트 & 해밍코드](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Computer_architecture/%ED%8C%A8%EB%A6%AC%ED%8B%B0%EB%B9%84%ED%8A%B8&%ED%95%B4%EB%B0%8D%EC%BD%94%EB%93%9C.md)|[comment]([https://github.com/CS-SSAFY-4Class/CS-Study/tree/main/Comment/Computer_science/Computer_architecture](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Computer_architecture/c%ED%8C%A8%EB%A6%AC%ED%8B%B0%EB%B9%84%ED%8A%B8%26%ED%95%B4%EB%B0%8D%EC%BD%94%EB%93%9C.md))|
 |박원서|||
 |임준수|||
 
@@ -128,7 +128,7 @@
 [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Computer_architecture/c%EC%BA%90%EC%8B%9C%EB%A9%94%EB%AA%A8%EB%A6%AC.md)<br>
 [고정 소수점 & 부동 소수점](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Computer_architecture/%EA%B3%A0%EC%A0%95%EC%86%8C%EC%88%98%EC%A0%90%26%EB%B6%80%EB%8F%99%EC%86%8C%EC%88%98%EC%A0%90.md)
 [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Computer_architecture/c%EA%B3%A0%EC%A0%95%EC%86%8C%EC%88%98%EC%A0%90%26%EB%B6%80%EB%8F%99%EC%86%8C%EC%88%98%EC%A0%90.md)<br> 
-[패리티 비트 & 해밍 코드](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Computer_architecture/%ED%8C%A8%EB%A6%AC%ED%8B%B0%EB%B9%84%ED%8A%B8&%ED%95%B4%EB%B0%8D%EC%BD%94%EB%93%9C.md) [comment](https://github.com/CS-SSAFY-4Class/CS-Study/tree/main/Comment/Computer_science/Computer_architecture)<br>
+[패리티 비트 & 해밍 코드](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Computer_architecture/%ED%8C%A8%EB%A6%AC%ED%8B%B0%EB%B9%84%ED%8A%B8&%ED%95%B4%EB%B0%8D%EC%BD%94%EB%93%9C.md) [comment]([https://github.com/CS-SSAFY-4Class/CS-Study/tree/main/Comment/Computer_science/Computer_architecture](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Computer_architecture/c%ED%8C%A8%EB%A6%AC%ED%8B%B0%EB%B9%84%ED%8A%B8%26%ED%95%B4%EB%B0%8D%EC%BD%94%EB%93%9C.md))<br>
 ARM 프로세서  
 
 #### 2️⃣ Data Structure  
