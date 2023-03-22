@@ -44,7 +44,7 @@
 |---|---|---|
 |김한주|[패리티비트 & 해밍코드](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Computer_architecture/%ED%8C%A8%EB%A6%AC%ED%8B%B0%EB%B9%84%ED%8A%B8&%ED%95%B4%EB%B0%8D%EC%BD%94%EB%93%9C.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Computer_architecture/c%ED%8C%A8%EB%A6%AC%ED%8B%B0%EB%B9%84%ED%8A%B8%26%ED%95%B4%EB%B0%8D%EC%BD%94%EB%93%9C.md)|
 |박원서|[소프트웨어 개발](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Software_Engineering/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%EA%B0%9C%EB%B0%9C.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Software_Engineering/c%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%EA%B0%9C%EB%B0%9C.md)|
-|임준수|||
+|임준수|[인터럽트](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Operating_system/04_%EC%9D%B8%ED%84%B0%EB%9F%BD%ED%8A%B8.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Operating_system/c%EC%9D%B8%ED%84%B0%EB%9F%BD%ED%8A%B8.md)|
 
 ## 📅 이달의 달력
 
@@ -176,7 +176,8 @@ Blocking & Non-Blocking I/O
 [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Operating_system/c%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4vs%EC%8A%A4%EB%A0%88%EB%93%9C.md)<br>
 [프로세스 주소 공간](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Operating_system/03_%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%A3%BC%EC%86%8C%EA%B3%B5%EA%B0%84.md)
 [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Operating_system/c%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%A3%BC%EC%86%8C%EA%B3%B5%EA%B0%84.md)<br>
-인터럽트(Interrupt)  
+[인터럽트(Interrupt)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Operating_system/04_%EC%9D%B8%ED%84%B0%EB%9F%BD%ED%8A%B8.md)
+[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Operating_system/c%EC%9D%B8%ED%84%B0%EB%9F%BD%ED%8A%B8.md)<br>
 시스템 콜(System Call)  
 PCB와 Context Switching  
 IPC(Inter Process Communication)  
