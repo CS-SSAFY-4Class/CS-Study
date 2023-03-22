@@ -43,7 +43,7 @@
 |<b>이름</b>|<b>주제</b>|<b>코멘트</b>|
 |---|---|---|
 |김한주|[패리티비트 & 해밍코드](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Computer_architecture/%ED%8C%A8%EB%A6%AC%ED%8B%B0%EB%B9%84%ED%8A%B8&%ED%95%B4%EB%B0%8D%EC%BD%94%EB%93%9C.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Computer_architecture/c%ED%8C%A8%EB%A6%AC%ED%8B%B0%EB%B9%84%ED%8A%B8%26%ED%95%B4%EB%B0%8D%EC%BD%94%EB%93%9C.md)|
-|박원서|||
+|박원서|[소프트웨어 개발](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Software_Engineering/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%EA%B0%9C%EB%B0%9C.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Software_Engineering/c%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%EA%B0%9C%EB%B0%9C.md)|
 |임준수|||
 
 ## 📅 이달의 달력
@@ -194,6 +194,8 @@ Race Condition
 [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Software_Engineering/c%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C%20%26%20%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81%20%26%20%EC%8B%9C%ED%81%90%EC%96%B4%20%EC%BD%94%EB%94%A9.md)<br>
 [TDD(Test Driven Development)](./Computer_science/Software_Engineering/TDD(Test_Driven_Development).md)
 [comment](./Comment/Computer_science/Software_Engineering/cTDD(Test_Driven_Development).md)  
+[소프트웨어 개발](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Software_Engineering/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%EA%B0%9C%EB%B0%9C.md)
+[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Software_Engineering/c%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%EA%B0%9C%EB%B0%9C.md)  
 애자일(Agile) 정리1 / 애자일(Agile) 정리2  
 객체 지향 프로그래밍(Object-Oriented Programming)  
 함수형 프로그래밍(Fuctional Programming)  
