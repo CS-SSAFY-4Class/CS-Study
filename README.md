@@ -36,7 +36,7 @@
 |임준수|[프로세스 주소 공간](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Operating_system/03_%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%A3%BC%EC%86%8C%EA%B3%B5%EA%B0%84.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Operating_system/c%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%A3%BC%EC%86%8C%EA%B3%B5%EA%B0%84.md)|
 |서재현|[Linked List](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Data_structure/LinkedList.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Data_structure/cLinked%20List.md)|
 |김관형|[]()|[comment]()|
-|류정모|[선택정렬](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Algorithm/Selction_sort.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Algorithm/cSelection_sort.md)|
+|류정모|[선택정렬](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Algorithm/Selection_sort.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Algorithm/cSelection_sort.md)|
 <br>
 
 ### 3월 4주차
@@ -214,7 +214,7 @@ Race Condition
 [알고리즘 성능 측정(시간복잡도)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Algorithm/%EC%8B%9C%EA%B0%84%EB%B3%B5%EC%9E%A1%EB%8F%84/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%98%20%EC%84%B1%EB%8A%A5%20%EB%B6%84%EC%84%9D.md)
 [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Algorithm/c%EC%8B%9C%EA%B0%84%EB%B3%B5%EC%9E%A1%EB%8F%84.md)    
 [거품 정렬(Bubble Sort)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Algorithm/Bubble_sort.md) [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Algorithm/cBubble_sort.md)     
-[선택 정렬(Selection Sort)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Algorithm/Selction_sort.md) [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Algorithm/cSelection_sort.md)  
+[선택 정렬(Selection Sort)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Algorithm/Selection_sort.md) [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Algorithm/cSelection_sort.md)  
 삽입 정렬(Insertion Sort)  
 퀵 정렬(Quick Sort)  
 병합 정렬(Merge Sort)  
