@@ -47,10 +47,10 @@
 |임준수|[인터럽트](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Operating_system/04_%EC%9D%B8%ED%84%B0%EB%9F%BD%ED%8A%B8.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Operating_system/c%EC%9D%B8%ED%84%B0%EB%9F%BD%ED%8A%B8.md)|
 <br>
 
-### 3월 4주차
+### 3월 5주차
 |<b>이름</b>|<b>주제</b>|<b>코멘트</b>|
 |---|---|---|
-|서재현|[스택과 큐]()|[comment]()|
+|서재현|[스택과 큐](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Data_structure/Stack_Queue.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Data_structure/c%EC%8A%A4%ED%83%9D%EA%B3%BC%ED%81%90.md)|
 |김관형|[]()|[comment]()|
 |류정모|[]()|[comment]()|
 <br>
@@ -146,7 +146,8 @@ ARM 프로세서
 [LinkedList](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Data_structure/LinkedList.md)
 [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Data_structure/cLinked%20List.md)  
 Array & ArrayList & LinkedList  
-스택(Stack) & 큐(Queue)  
+[스택(Stack) & 큐(Queue)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Data_structure/Stack_Queue.md)
+[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Data_structure/c%EC%8A%A4%ED%83%9D%EA%B3%BC%ED%81%90.md)  
 힙(Heap)  
 트리(Tree)  
 이진탐색트리(Binary Search Tree)  
