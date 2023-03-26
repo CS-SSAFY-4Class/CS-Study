@@ -8,8 +8,7 @@
 > 다만 재귀나 while문으로 구현한 거를 확인했고 아래에 예시코드 적어두겠습니다.^_^  
 > 
 >반복문 사용  
-
-'''python
+```python
 def printNodes(node:ListNode):
     crnt_node = node
     while crnt_node is not None:
