@@ -144,8 +144,7 @@ ARM 프로세서
 [배열(Array)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Data_structure/Array.md) 
 [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Data_structure/c%EB%B0%B0%EC%97%B4(Array).md)  
 [LinkedList](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Data_structure/LinkedList.md)
-[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Data_structure/cLinked%20List.md)  
-Array & ArrayList & LinkedList  
+[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Data_structure/cLinked%20List.md) 
 [스택(Stack) & 큐(Queue)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Data_structure/Stack_Queue.md)
 [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Data_structure/c%EC%8A%A4%ED%83%9D%EA%B3%BC%ED%81%90.md)  
 힙(Heap)  
