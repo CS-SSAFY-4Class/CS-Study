@@ -52,7 +52,7 @@
 |---|---|---|
 |서재현|[스택과 큐](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Data_structure/Stack_Queue.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Data_structure/c%EC%8A%A4%ED%83%9D%EA%B3%BC%ED%81%90.md)|
 |김관형|[]()|[comment]()|
-|류정모|[삽입정렬](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Algorithm/Insertion_sort.md)|[comment]()|
+|류정모|[삽입정렬](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Algorithm/Insertion_sort.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Algorithm/cInsertion_sort.md)|
 <br>
 
 ## 📅 이달의 달력
@@ -228,7 +228,7 @@ Race Condition
 [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Algorithm/c%EC%8B%9C%EA%B0%84%EB%B3%B5%EC%9E%A1%EB%8F%84.md)    
 [거품 정렬(Bubble Sort)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Algorithm/Bubble_sort.md) [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Algorithm/cBubble_sort.md)     
 [선택 정렬(Selection Sort)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Algorithm/Selection_sort.md) [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Algorithm/cSelection_sort.md)  
-[삽입 정렬(Insertion Sort)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Algorithm/Insertion_sort.md) [comment]()  
+[삽입 정렬(Insertion Sort)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Algorithm/Insertion_sort.md) [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Algorithm/cInsertion_sort.md)    
 퀵 정렬(Quick Sort)  
 병합 정렬(Merge Sort)  
 힙 정렬(Heap Sort)  
