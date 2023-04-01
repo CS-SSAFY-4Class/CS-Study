@@ -51,7 +51,7 @@
 |<b>이름</b>|<b>주제</b>|<b>코멘트</b>|
 |---|---|---|
 |서재현|[스택과 큐](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Data_structure/Stack_Queue.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Data_structure/c%EC%8A%A4%ED%83%9D%EA%B3%BC%ED%81%90.md)|
-|김관형|[]()|[comment]()|
+|김관형|[HTTP Request Method](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Web/HTTP_Request_Methods.md)|[comment]()|
 |류정모|[삽입정렬](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Algorithm/Insertion_sort.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Algorithm/cInsertion_sort.md)|
 <br>
 
@@ -248,7 +248,8 @@ DFS & BFS
 브라우저 동작 방법  
 [쿠키(Cookie) & 세션(Session)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Web/%EC%BF%A0%ED%82%A4(Cookie)%26%EC%84%B8%EC%85%98(Session)/%EC%BF%A0%ED%82%A4%26%EC%84%B8%EC%85%98.md) 
 [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Web/c%EC%BF%A0%ED%82%A4%EC%99%80%EC%84%B8%EC%85%98.md)<br>
-HTTP Request Methods  
+[HTTP Request Methods](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Web/HTTP_Request_Methods.md)  
+[comment]()
 HTTP Status Code  
 REST API  
 웹 서버와 WAS의 차이점  
