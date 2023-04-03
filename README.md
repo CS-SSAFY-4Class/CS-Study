@@ -134,6 +134,8 @@ ARM 프로세서
 B-Tree & B+Tree  
 
 #### 3️⃣ Database
+[데이터베이스란](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Database/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EB%9E%80.md) 
+[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Database/c%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EB%9E%80.md)<br>
 키(Key) 정리  
 SQL - JOIN  
 SQL Injection  
