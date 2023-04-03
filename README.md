@@ -18,33 +18,6 @@
 <br>
 
 ## 💬 이 주의 코멘트
-
-### 3월 2주차
-|<b>이름</b>|<b>주제</b>|<b>코멘트</b>|
-|---|---|---|
-|임준수|[운영체제란](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Operating_system/01_%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Operating_system/c%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C.md)|
-|서재현|[배열(Array)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Data_structure/Array.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Data_structure/c%EB%B0%B0%EC%97%B4(Array).md)|
-|김관형|[쿠키와세션](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Web/%EC%BF%A0%ED%82%A4(Cookie)%26%EC%84%B8%EC%85%98(Session)/%EC%BF%A0%ED%82%A4%26%EC%84%B8%EC%85%98.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Web/c%EC%BF%A0%ED%82%A4%EC%99%80%EC%84%B8%EC%85%98.md)|
-|류정모|[BubbleSort](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Algorithm/Bubble_sort.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Algorithm/cBubble_sort.md)|
-|김한주|[주기억장치(RAM) 작동 원리](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Computer_architecture/%EC%A3%BC%EA%B8%B0%EC%96%B5%EC%9E%A5%EC%B9%98%EC%9E%91%EB%8F%99%EC%9B%90%EB%A6%AC.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Computer_architecture/c%EC%A3%BC%EA%B8%B0%EC%96%B5%EC%9E%A5%EC%B9%98%EC%9E%91%EB%8F%99%EC%9B%90%EB%A6%AC.md)|
-<br>
-
-### 3월 3주차
-|<b>이름</b>|<b>주제</b>|<b>코멘트</b>|
-|---|---|---|
-|박원서|[TDD](./Computer_science/Software_Engineering/TDD(Test_Driven_Development).md)|[comment](./Comment/Computer_science/Software_Engineering/cTDD(Test_Driven_Development).md)|
-|임준수|[프로세스 주소 공간](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Operating_system/03_%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%A3%BC%EC%86%8C%EA%B3%B5%EA%B0%84.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Operating_system/c%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%A3%BC%EC%86%8C%EA%B3%B5%EA%B0%84.md)|
-|서재현|[Linked List](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Data_structure/LinkedList.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Data_structure/cLinked%20List.md)|
-|김관형|[HTTP 개요](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Web/HTTP_%EA%B0%9C%EC%9A%94.md)|[comment]()|
-|류정모|[선택정렬](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Algorithm/Selection_sort.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Algorithm/cSelection_sort.md)|
-<br>
-
-### 3월 4주차
-|<b>이름</b>|<b>주제</b>|<b>코멘트</b>|
-|---|---|---|
-|김한주|[패리티비트 & 해밍코드](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Computer_architecture/%ED%8C%A8%EB%A6%AC%ED%8B%B0%EB%B9%84%ED%8A%B8&%ED%95%B4%EB%B0%8D%EC%BD%94%EB%93%9C.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Computer_architecture/c%ED%8C%A8%EB%A6%AC%ED%8B%B0%EB%B9%84%ED%8A%B8%26%ED%95%B4%EB%B0%8D%EC%BD%94%EB%93%9C.md)|
-|박원서|[소프트웨어 개발](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Software_Engineering/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%EA%B0%9C%EB%B0%9C.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Software_Engineering/c%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%EA%B0%9C%EB%B0%9C.md)|
-|임준수|[인터럽트](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Operating_system/04_%EC%9D%B8%ED%84%B0%EB%9F%BD%ED%8A%B8.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Operating_system/c%EC%9D%B8%ED%84%B0%EB%9F%BD%ED%8A%B8.md)|
 <br>
 
 ### 3월 5주차
@@ -55,25 +28,31 @@
 |류정모|[삽입정렬](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Algorithm/Insertion_sort.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Algorithm/cInsertion_sort.md)|
 <br>
 
+### 4월 1주차
+|<b>이름</b>|<b>주제</b>|<b>코멘트</b>|
+|---|---|---|
+|김한주|[ARM 프로세서]()|[comment]()|
+|박원서|[]()|[comment]()|
+|임준수|[]()|[comment]()|
+<br>
+
 ## 📅 이달의 달력
 
 업로드 순번을 기입해놓은 달력입니다.  
 보시고 업로드 까먹지 마시길 바랍니다!
 
-### 3월
+### 4월
 
-|<b>월|화|수|목|금|토|일|
-|---|---|---|---|---|---|---|
-|||1|2|3|4|5|
-|||😴|1번|2번|😴|😴|
-|6|7|8|9|10|11|12|
-|3번|4번|5번|6번|1번|😴|😴|
-|13|14|15|16|17|18|19|
-|2번|3번|4번|5번|6번|😴|😴|
-|20|21|22|23|24|25|26|
-|1번||2번||3번|😴|😴|
-|27|28|29|30|31|||
-|4번||5번||6번|||
+|<b>월</b>|<b>수</b>|<b>금</b>|
+|---|---|---|
+|3|5|7|
+|김한주|박원서|임준수|
+|10|12|14|
+|서재현|김관형|류정모|
+|17|19|21|
+|김한주|박원서|임준수|
+|24|26|28|
+|서재현|김관형|류정모|
 <br>
 
 ## 📝 규칙
