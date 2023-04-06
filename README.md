@@ -169,7 +169,8 @@ Blocking & Non-Blocking I/O
 [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Operating_system/c%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%A3%BC%EC%86%8C%EA%B3%B5%EA%B0%84.md)<br>
 [인터럽트(Interrupt)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Operating_system/04_%EC%9D%B8%ED%84%B0%EB%9F%BD%ED%8A%B8.md)
 [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Operating_system/c%EC%9D%B8%ED%84%B0%EB%9F%BD%ED%8A%B8.md)<br>
-시스템 콜(System Call)  
+[시스템 콜(System Call)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Operating_system/05_%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%BD%9C.md)
+[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Operating_system/c%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%BD%9C.md)<br>
 PCB와 Context Switching  
 IPC(Inter Process Communication)  
 CPU 스케줄링  
