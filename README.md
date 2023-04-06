@@ -33,7 +33,7 @@
 |---|---|---|
 |김한주|[데이터베이스란](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Database/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EB%9E%80.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Database/c%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EB%9E%80.md)|
 |박원서|[]()|[comment]()|
-|임준수|[]()|[comment]()|
+|임준수|[시스템콜](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Operating_system/05_%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%BD%9C.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Operating_system/c%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%BD%9C.md)|
 <br>
 
 ## 📅 이달의 달력
