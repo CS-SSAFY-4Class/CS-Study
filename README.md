@@ -32,7 +32,7 @@
 |<b>이름</b>|<b>주제</b>|<b>코멘트</b>|
 |---|---|---|
 |김한주|[데이터베이스란](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Database/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EB%9E%80.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Database/c%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EB%9E%80.md)|
-|박원서|[]()|[comment]()|
+|박원서|[Agile](./Computer_science/Software_Engineering/Agile/Agile.md)|[comment](./Comment/Computer_science/Software_Engineering/cAgile.md)|
 |임준수|[시스템콜](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Operating_system/05_%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%BD%9C.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Operating_system/c%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%BD%9C.md)|
 <br>
   
@@ -197,7 +197,7 @@ Race Condition
 [comment](./Comment/Computer_science/Software_Engineering/cTDD(Test_Driven_Development).md)  
 [소프트웨어 개발](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Software_Engineering/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%EA%B0%9C%EB%B0%9C.md)
 [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Software_Engineering/c%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%EA%B0%9C%EB%B0%9C.md)  
-애자일(Agile) 정리1 / 애자일(Agile) 정리2  
+[애자일(Agile) 정리1 / 애자일(Agile) 정리2](./Computer_science/Software_Engineering/Agile/Agile.md) [comment](./Comment/Computer_science/Software_Engineering/cAgile.md)  
 객체 지향 프로그래밍(Object-Oriented Programming)  
 함수형 프로그래밍(Fuctional Programming)  
 데브옵스(DevOps)  
