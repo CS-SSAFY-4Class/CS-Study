@@ -35,6 +35,14 @@
 |박원서|[]()|[comment]()|
 |임준수|[시스템콜](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Operating_system/05_%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%BD%9C.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Operating_system/c%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%BD%9C.md)|
 <br>
+  
+### 4월 2주차
+|<b>이름</b>|<b>주제</b>|<b>코멘트</b>|
+|---|---|---|
+|서재현|[]()|[comment]()|
+|김관형|[]()|[comment]()|
+|류정모|[]()|[comment]()|
+<br>
 
 ## 📅 이달의 달력
 
