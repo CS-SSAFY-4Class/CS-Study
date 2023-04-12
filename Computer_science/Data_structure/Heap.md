@@ -6,9 +6,9 @@
 
 부모 노드의 인덱스는 1로, 왼쪽 자식 노드부터 2, 3 순서이다.  
 
-    *Parent index*  = *Children index* // 2  
-    *left child index* = *Parent index* * 2  
-    *right child index* = *Parent index* * 2 + 1
+    Parent index  = Children index // 2  
+    left child index = Parent index * 2  
+    right child index = Parent index * 2 + 1
 <br><br>
 
 ## 힙을 왜 사용하나요?
