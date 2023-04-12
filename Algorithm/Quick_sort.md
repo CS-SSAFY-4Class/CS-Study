@@ -23,9 +23,10 @@
 ### 시간 복잡도
 
 <br/>
-최악 시간 복잡도 : O(n2)
-최선 시간 복잡도 : O(n log n)
-평균 시간 복잡도 : O(n log n)
+최악 시간 복잡도 : O(n2) <br/>
+최선 시간 복잡도 : O(n log n)<br/>
+평균 시간 복잡도 : O(n log n)<br/>
+
 
 ![image](https://wikimedia.org/api/rest_v1/media/math/render/svg/56572f92a7140a67a4dad085c0e71392eb98a2be)
 
