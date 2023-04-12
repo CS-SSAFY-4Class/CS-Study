@@ -39,7 +39,7 @@
 ### 4월 2주차
 |<b>이름</b>|<b>주제</b>|<b>코멘트</b>|
 |---|---|---|
-|서재현|[]()|[comment]()|
+|서재현|[힙(Heap)]()|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Data_structure/c%ED%9E%99(Heap).md)|
 |김관형|[]()|[comment]()|
 |류정모|[]()|[comment]()|
 <br>
@@ -134,7 +134,8 @@ ARM 프로세서
 [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Data_structure/cLinked%20List.md)  
 [스택(Stack)&큐(Queue)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Data_structure/Stack_Queue.md)
 [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Data_structure/c%EC%8A%A4%ED%83%9D%EA%B3%BC%ED%81%90.md)  
-힙(Heap)  
+힙(Heap)
+[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Data_structure/c%ED%9E%99(Heap).md)
 트리(Tree)  
 이진탐색트리(Binary Search Tree)  
 해시(Hash)  
