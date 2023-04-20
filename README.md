@@ -23,7 +23,7 @@
 |<b>이름</b>|<b>주제</b>|<b>코멘트</b>|
 |---|---|---|
 |서재현|[힙(Heap)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Data_structure/Heap.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Data_structure/c%ED%9E%99(Heap).md)|
-|김관형|[]()|[comment]()|
+|김관형|[REST API](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Web/REST_API.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Web/cREST_API.md)|
 |류정모|[Quick_sort](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Algorithm/Quick_sort.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Algorithm/cQuick_sort.md)|
 <br>
 
@@ -234,7 +234,8 @@ DFS & BFS
 [HTTP Request Methods](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Web/HTTP_Request_Methods.md) 
 [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Web/cHTTP_Request_Method.md)  
 HTTP Status Code  
-REST API  
+[REST API](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Web/REST_API.md) 
+[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Web/cREST_API.md)  
 웹 서버와 WAS의 차이점  
 OAuth  
 JWT(JSON Web Token)  
