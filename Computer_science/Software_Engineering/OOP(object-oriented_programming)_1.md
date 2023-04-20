@@ -16,8 +16,14 @@ Object-Oriented Programming
 <br>
 
 #### 접근 제한자
-1. Python : 접근 제한자를 가지고 있지 않다.
-2. Java : public, private
+`class`, `libary` 등 객체를 만들어내는 명령어의 집합들은 이를 만든 개발자의 의도대로만 움직여야 한다. [클린코딩/시큐어코딩](./%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C%20%26%20%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81%20%26%20%EC%8B%9C%ED%81%90%EC%96%B4%20%EC%BD%94%EB%93%9C.md) <br>
+  그러한 이유로 객체가 동작하는 내부에는 접근을 못하게 하는데,<br>
+  이를 "접근 제한자"를 이용해서 조절하고 있다.
+  - 만약 이를 이용하는 개발자가 다른 의도로 이 객체를 바꾸고 싶다면, 상속해서 이용해야 한다.
+  - `encapsulation`
+
+1. Python : 접근 제한자를 가지고 있지 않다. (유명무실 하다.)
+2. C++, Java : public, private, protected (, Java에서 default 추가)
 3. JavaScript : prototype
 <br>
 
