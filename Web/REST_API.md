@@ -50,8 +50,6 @@ HTTP URI(Uniform Resource Identifier)를 통해 자원을 명시하고, HTTP Met
     - 서로 간의 의존성이 줄어든다.
 
 2. Stateless(무상태)
-    - 
-    -
 
 3. Cacheable(캐시 처리 가능)
     - 웹 표준 HTTP프로토콜을 그대로 사용하므로 웹으로 사용하는 기존 인프라를 그대로 활용할 수 있다.
