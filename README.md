@@ -31,7 +31,7 @@
 |<b>이름</b>|<b>주제</b>|<b>코멘트</b>|
 |---|---|---|
 |김한주|[키(Key) 정리](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Database/%ED%82%A4%EC%A0%95%EB%A6%AC.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Database/c%ED%82%A4%EC%A0%95%EB%A6%AC.md)|
-|박원서|[]()|[comment]()|
+|박원서|[OOP_1부](./Computer_science/Software_Engineering/OOP(object-oriented_programming)_1.md)|[comment](./Comment/Computer_science/Software_Engineering/cOOP_1.md)|
 |임준수|[]()|[comment]()|
 <br>
 
@@ -190,7 +190,8 @@ Race Condition
 [소프트웨어 개발](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Software_Engineering/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%EA%B0%9C%EB%B0%9C.md)
 [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Software_Engineering/c%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%EA%B0%9C%EB%B0%9C.md)  
 [애자일(Agile) 정리1 / 애자일(Agile) 정리2](./Computer_science/Software_Engineering/Agile/Agile.md) [comment](./Comment/Computer_science/Software_Engineering/cAgile.md)  
-객체 지향 프로그래밍(Object-Oriented Programming)  
+[객체 지향 프로그래밍(Object-Oriented Programming)-1](./Computer_science/Software_Engineering/OOP(object-oriented_programming)_1.md)  
+[객체 지향 프로그래밍(Object-Oriented Programming)-2](./Computer_science/Software_Engineering/OOP_2.md)  
 함수형 프로그래밍(Fuctional Programming)  
 데브옵스(DevOps)  
 서드 파티(3rd party)란?  
