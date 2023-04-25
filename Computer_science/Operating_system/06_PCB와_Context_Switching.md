@@ -23,12 +23,12 @@ Process Metadata를 저장해 놓는 곳, 하나의 PCB 안에는 하나의 프�
 <br>
 
 ### PCB의 상세 구조
-Pointer | Process State
-Process Number
-Program Counter
-Registers
-Memory Limits
-List of Open Files
+Pointer | Process State<br>
+Process Number<br>
+Program Counter<br>
+Registers<br>
+Memory Limits<br>
+List of Open Files<br>
 
 - Process State: 프로세스 상태(Create, Ready, Running, Block, Terminated)
 - Process Counter: 다음 실행할 명령어의 주소값
