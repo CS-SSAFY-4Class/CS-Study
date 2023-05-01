@@ -19,21 +19,12 @@
 
 ## 💬 이 주의 코멘트
 
-### 4월 2주차
-|<b>이름</b>|<b>주제</b>|<b>코멘트</b>|
-|---|---|---|
-|서재현|[힙(Heap)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Data_structure/Heap.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Data_structure/c%ED%9E%99(Heap).md)|
-|김관형|[REST API](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Web/REST_API.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Web/cREST_API.md)|
-|류정모|[Quick_sort](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Algorithm/Quick_sort.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Algorithm/cQuick_sort.md)|
-<br>
-
 ### 4월 3주차
 |<b>이름</b>|<b>주제</b>|<b>코멘트</b>|
 |---|---|---|
 |김한주|[키(Key) 정리](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Database/%ED%82%A4%EC%A0%95%EB%A6%AC.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Database/c%ED%82%A4%EC%A0%95%EB%A6%AC.md)|
 |박원서|[OOP_1부](./Computer_science/Software_Engineering/OOP(object-oriented_programming)_1.md)|[comment](./Comment/Computer_science/Software_Engineering/cOOP_1.md)|
 |임준수|[PCB와 C.S](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Operating_system/06_PCB%EC%99%80_Context_Switching.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Operating_system/cPCB%EC%99%80_Context_Switching.md)|
-<br>
 
 ### 4월 4주차
 |<b>이름</b>|<b>주제</b>|<b>코멘트</b>|
@@ -42,6 +33,13 @@
 |김관형|[HTTP Status Code](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Web/HTTP_Status_Code.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Web/cHTTP_Status_Code.md)|
 |류정모|[]()|[comment]()|
 
+### 5월 1주차
+|<b>이름</b>|<b>주제</b>|<b>코멘트</b>|
+|---|---|---|
+|김한주|[]()|[comment]()|
+|박원서|[]()|[comment]()|
+|임준수|[]()|[comment]()|
+
 <br>
 
 ## 📅 이달의 달력
@@ -49,17 +47,17 @@
 업로드 순번을 기입해놓은 달력입니다.  
 보시고 업로드 까먹지 마시길 바랍니다!
 
-### 4월
+### 5월
 
 |<b>월</b>|<b>수</b>|<b>금</b>|
 |---|---|---|
-|3|5|7|
+|1|3|5|
 |김한주|박원서|임준수|
-|10|12|14|
+|8|10|12|
 |서재현|김관형|류정모|
-|17|19|21|
+|15|17|19|
 |김한주|박원서|임준수|
-|24|26|28|
+|22|24|26|
 |서재현|김관형|류정모|
 <br>
 
