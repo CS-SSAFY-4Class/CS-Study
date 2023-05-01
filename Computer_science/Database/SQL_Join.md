@@ -56,5 +56,5 @@ WHERE 학생.학번 = 수강.학번
 ## Outer Join
 
 # 참조 문서
-[혼공](https://hongong.hanbit.co.kr/sql-%EA%B8%B0%EB%B3%B8-%EB%AC%B8%EB%B2%95-joininner-outer-cross-self-join/)<
+[혼공](https://hongong.hanbit.co.kr/sql-%EA%B8%B0%EB%B3%B8-%EB%AC%B8%EB%B2%95-joininner-outer-cross-self-join/)<br>
 [Richet의 기술 블로그](https://etloveguitar.tistory.com/123)
