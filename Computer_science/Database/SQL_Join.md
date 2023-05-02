@@ -61,8 +61,6 @@ WHERE 학생.학번 = 수강.학번
 - 만약 기준 테이블에만 존재하는 데이터라면 null 값이 할당 됨
 - Left, Right, Full이 존재
 
-<br>
-
 ### 1. OUTER LEFT
 
 #### CODE
