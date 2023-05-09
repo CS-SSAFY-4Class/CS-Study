@@ -43,7 +43,7 @@
 ### 5월 2주차
 |<b>이름</b>|<b>주제</b>|<b>코멘트</b>|
 |---|---|---|
-|서재현|[이진탐색트리](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Data_structure/BST.md)|[comment]()|
+|서재현|[이진탐색트리](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Data_structure/BST.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Data_structure/cBST.md)|
 |김관형|[]()|[comment]()|
 |류정모|[]()|[comment]()|
 
@@ -144,7 +144,7 @@ ARM 프로세서
 [트리(Tree)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Data_structure/Tree.md)
 [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Data_structure/c%ED%8A%B8%EB%A6%AC(Tree).md)  
 [이진탐색트리(Binary Search Tree)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Data_structure/BST.md)
-[comment]()  
+[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Data_structure/cBST.md)  
 해시(Hash)  
 트라이(Trie)  
 B-Tree & B+Tree  
