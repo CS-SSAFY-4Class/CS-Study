@@ -249,8 +249,8 @@ DFS & BFS
 [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Web/c%EC%BF%A0%ED%82%A4%EC%99%80%EC%84%B8%EC%85%98.md)<br>
 [HTTP Request Methods](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Web/HTTP_Request_Methods.md) 
 [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Web/cHTTP_Request_Method.md)  
-[HTTP Status Code](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Web/HTTP_Status_Code.md)  
-[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Web/cHTTP_Status_Code.md)
+[HTTP Status Code](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Web/HTTP_Status_Code.md) 
+[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Web/cHTTP_Status_Code.md)  
 [REST API](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Web/REST_API.md) 
 [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Web/cREST_API.md)  
 웹 서버와 WAS의 차이점  
