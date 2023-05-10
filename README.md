@@ -44,7 +44,7 @@
 |<b>이름</b>|<b>주제</b>|<b>코멘트</b>|
 |---|---|---|
 |서재현|[이진탐색트리](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Data_structure/BST.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Data_structure/cBST.md)|
-|김관형|[]()|[comment]()|
+|김관형|[CSR&SSR](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Web/CSR%26SSR.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Web/CSR%26SSR.md)|
 |류정모|[]()|[comment]()|
 
 <br>
@@ -260,7 +260,8 @@ JWT(JSON Web Token)
 Authentication and Authorization  
 로그 레벨  
 UI와 UX  
-CSR & SSR  
+[CSR & SSR](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Web/CSR%26SSR.md)  
+[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Web/CSR%26SSR.md)
 Vue.js vs React  
 네이티브 앱 & 웹 앱 & 하이브리드 앱  
 PWA(Progressive Web App)  
