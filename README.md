@@ -190,7 +190,7 @@ Blocking & Non-Blocking I/O
 [PCB와 Context Switching](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Operating_system/06_PCB%EC%99%80_Context_Switching.md)
 [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Operating_system/cPCB%EC%99%80_Context_Switching.md)<br>
 [IPC(Inter Process Communication)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Operating_system/07_IPC.md)
-[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Operating_system/cIPC.md)
+[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Operating_system/cIPC.md)<br>
 CPU 스케줄링  
 데드락(DeadLock)  
 Race Condition  
