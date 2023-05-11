@@ -38,7 +38,7 @@
 |---|---|---|
 |김한주|[SQL JOIN](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Database/SQL_Join.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Database/cSQL_Join.md)|
 |박원서|[]()|[comment]()|
-|임준수|[]()|[comment]()|
+|임준수|[IPC](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Operating_system/07_IPC.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Operating_system/cIPC.md)|
   
 ### 5월 2주차
 |<b>이름</b>|<b>주제</b>|<b>코멘트</b>|
@@ -189,7 +189,8 @@ Blocking & Non-Blocking I/O
 [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Operating_system/c%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%BD%9C.md)<br>
 [PCB와 Context Switching](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Operating_system/06_PCB%EC%99%80_Context_Switching.md)
 [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Operating_system/cPCB%EC%99%80_Context_Switching.md)<br>
-IPC(Inter Process Communication)  
+[IPC(Inter Process Communication)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Operating_system/07_IPC.md)
+[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Operating_system/cIPC.md)
 CPU 스케줄링  
 데드락(DeadLock)  
 Race Condition  
