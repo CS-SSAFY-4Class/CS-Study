@@ -47,25 +47,43 @@ SELECT * FROM Board WHERE title LIKE '%' UNION SELECT null, id, password FROM Us
 <br>
 
 ## Blind SQL Injection
-- 서버로부터 특정한 응답 대신 참, 거짓 응답을 통해 데이터 베이스 정보를 유추하는 기법
+- 서버로부터 특정한 응답 대신 참, 거짓 응답만을 알 수 있을 때 데이터 베이스 정보를 유추하는 기법
 
 ### Boolean based SQL
-- 로그인 성공과 로그인 실패 메시지를 이용
-- DB의 테이블 정보들을 유추 혹은 추출
+- 로그인 성공과 로그인 실패 메시지 같은 부가 정보를 이용
+- 테이블 정보등 데이터 베이스 관련 정보들을 유추 혹은 추출
 ```SQL
 -- 원래 구문
 SELECT * FROM Users WHERE id = 'INPUT1' AND password = 'INPUT2'
 
 -- 공격자가 추가하는 구문 
-abc123' and { 테이블명의 첫번째 글자가 임의의 알파벳과 같은지 확인하는 코드 }
+abc123' and { 테이블명의 첫번째 글자가 임의의 알파벳과 같은지 확인하는 코드 } -- 
 
 -- 결과물
-SELECT * FROM Users WHERE id = 'abc123' and { 테이블명의 첫번째 글자가 임의의 알파벳과 같은지 확인하는 코드 }
+SELECT * FROM Users WHERE id = 'abc123' and { 테이블명의 첫번째 글자가 임의의 알파벳과 같은지 확인하는 코드 } -- INPUT1' AND password = 'INPUT2'
 ```
 >공격자가 임의의 ID로 회원가입한 후 공격에 사용  
 >로그인 될 때까지 임의의 알파벳을 교체  
 >만약 `U`에서 로그인이 되었다면 테이블명의 첫번째 글자는 U
 
+### Time Based Injection
+- 참, 거짓값을 명시적으로 반환받을 수 없을 때 사용
+- 참, 거짓에 따른 특정 함수를 시행 후 결과를 보고 참 거짓을 유추
+- 대표적으로 `SLEEP()` 같은 함수를 사용
+```SQL
+-- 원래 구문
+SELECT * FROM Users WHERE id = 'INPUT1' AND password = 'INPUT2'
+
+-- 공격자가 추가하는 구문 
+abc123' and (LENGTH(DATABASE())=1 AND SLEEP(2)) --
+
+-- 결과물
+SELECT * FROM Users WHERE id = 'abc123' and (LENGTH(DATABASE())=1 AND SLEEP(2)) -- INPUT1' AND password = 'INPUT2'
+```
+>공격자가 데이터베이스 길이를 추측할 수 있는 코드  
+>`--`뒤의 구문은 주석 처리  
+>만약 `=1`부분의 숫자를 바꿔가며 true, false를 반환받음  
+>만약 true라면 `SLEEP(2)` 함수가 실행됨
 
 <br><br>
 
