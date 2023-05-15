@@ -19,24 +19,24 @@
 
 ## 💬 이 주의 코멘트
 
-### 4월 3주차
-|<b>이름</b>|<b>주제</b>|<b>코멘트</b>|
-|---|---|---|
-|김한주|[키(Key) 정리](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Database/%ED%82%A4%EC%A0%95%EB%A6%AC.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Database/c%ED%82%A4%EC%A0%95%EB%A6%AC.md)|
-|박원서|[OOP_1부](./Computer_science/Software_Engineering/OOP(object-oriented_programming)_1.md)|[comment](./Comment/Computer_science/Software_Engineering/cOOP_1.md)|
-|임준수|[PCB와 C.S](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Operating_system/06_PCB%EC%99%80_Context_Switching.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Operating_system/cPCB%EC%99%80_Context_Switching.md)|
-
-### 4월 4주차
-|<b>이름</b>|<b>주제</b>|<b>코멘트</b>|
-|---|---|---|
-|서재현|[트리(Tree)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Data_structure/Tree.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Data_structure/c%ED%8A%B8%EB%A6%AC(Tree).md)|
-|김관형|[HTTP Status Code](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Web/HTTP_Status_Code.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Web/cHTTP_Status_Code.md)|
-|류정모|[Merge_sort](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Algorithm/Merge_sort.md)|[comment]()|
-
 ### 5월 1주차
 |<b>이름</b>|<b>주제</b>|<b>코멘트</b>|
 |---|---|---|
 |김한주|[SQL JOIN](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Database/SQL_Join.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Database/cSQL_Join.md)|
+|박원서|[]()|[comment]()|
+|임준수|[IPC](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Operating_system/07_IPC.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Operating_system/cIPC.md)|
+  
+### 5월 2주차
+|<b>이름</b>|<b>주제</b>|<b>코멘트</b>|
+|---|---|---|
+|서재현|[이진탐색트리](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Data_structure/BST.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Data_structure/cBST.md)|
+|김관형|[CSR&SSR](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Web/CSR%26SSR.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Web/cCSR%26SSR.md)|
+|류정모|[]()|[comment]()|
+  
+### 5월 1주차
+|<b>이름</b>|<b>주제</b>|<b>코멘트</b>|
+|---|---|---|
+|김한주|[SQL Injection](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Database/SQL_Injection.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Database/cSQL_Injection.md)|
 |박원서|[]()|[comment]()|
 |임준수|[]()|[comment]()|
 
@@ -136,7 +136,8 @@ ARM 프로세서
 [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Data_structure/c%ED%9E%99(Heap).md)  
 [트리(Tree)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Data_structure/Tree.md)
 [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Data_structure/c%ED%8A%B8%EB%A6%AC(Tree).md)  
-이진탐색트리(Binary Search Tree)  
+[이진탐색트리(Binary Search Tree)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Data_structure/BST.md)
+[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Data_structure/cBST.md)  
 해시(Hash)  
 트라이(Trie)  
 B-Tree & B+Tree  
@@ -146,7 +147,7 @@ B-Tree & B+Tree
 [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Database/c%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EB%9E%80.md)<br>
 [키(Key) 정리](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Database/%ED%82%A4%EC%A0%95%EB%A6%AC.md) [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Database/c%ED%82%A4%EC%A0%95%EB%A6%AC.md)<br>
 [SQL - JOIN](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Database/SQL_Join.md) [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Database/cSQL_Join.md)<br>
-SQL Injection  
+[SQL Injection](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Database/SQL_Injection.md) [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Database/cSQL_Injection.md)<br>
 SQL vs NoSQL  
 정규화(Normalization)  
 이상(Anomaly)  
@@ -181,7 +182,8 @@ Blocking & Non-Blocking I/O
 [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Operating_system/c%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%BD%9C.md)<br>
 [PCB와 Context Switching](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Operating_system/06_PCB%EC%99%80_Context_Switching.md)
 [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Operating_system/cPCB%EC%99%80_Context_Switching.md)<br>
-IPC(Inter Process Communication)  
+[IPC(Inter Process Communication)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Operating_system/07_IPC.md)
+[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Operating_system/cIPC.md)<br>
 CPU 스케줄링  
 데드락(DeadLock)  
 Race Condition  
@@ -222,7 +224,7 @@ Race Condition
 [선택 정렬(Selection Sort)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Algorithm/Selection_sort.md) [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Algorithm/cSelection_sort.md)  
 [삽입 정렬(Insertion Sort)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Algorithm/Insertion_sort.md) [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Algorithm/cInsertion_sort.md)    
 [퀵 정렬(Quick Sort)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Algorithm/Quick_sort.md) [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Algorithm/cQuick_sort.md)     
-[병합 정렬(Merge Sort)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Algorithm/Merge_sort.md) [comment]()    
+[병합 정렬(Merge Sort)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Algorithm/Merge_sort.md) [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Algorithm/cMerge_sort.md)    
 힙 정렬(Heap Sort)  
 기수 정렬(Radix Sort)  
 계수 정렬(Count Sort)  
@@ -242,8 +244,8 @@ DFS & BFS
 [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Web/c%EC%BF%A0%ED%82%A4%EC%99%80%EC%84%B8%EC%85%98.md)<br>
 [HTTP Request Methods](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Web/HTTP_Request_Methods.md) 
 [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Web/cHTTP_Request_Method.md)  
-[HTTP Status Code](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Web/HTTP_Status_Code.md)  
-[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Web/cHTTP_Status_Code.md)
+[HTTP Status Code](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Web/HTTP_Status_Code.md) 
+[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Web/cHTTP_Status_Code.md)  
 [REST API](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Web/REST_API.md) 
 [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Web/cREST_API.md)  
 웹 서버와 WAS의 차이점  
@@ -252,7 +254,8 @@ JWT(JSON Web Token)
 Authentication and Authorization  
 로그 레벨  
 UI와 UX  
-CSR & SSR  
+[CSR & SSR](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Web/CSR%26SSR.md) 
+[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Web/cCSR%26SSR.md)  
 Vue.js vs React  
 네이티브 앱 & 웹 앱 & 하이브리드 앱  
 PWA(Progressive Web App)  
