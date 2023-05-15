@@ -49,6 +49,7 @@
 
 
 ### 다른 정렬 알고리즘과의 비교
+
 <br/>
 
 ![image](https://gmlwjd9405.github.io/images/algorithm-heap-sort/sort-time-complexity.png)
@@ -102,6 +103,9 @@
 
 ```
 
+
+<br/>
+
 - visaulization
     - https://www.youtube.com/watch?v=_bkow6IykGM
 - heap_sort dance
@@ -110,7 +114,12 @@
 
 
 ### 힙 정렬 코드
+
+
+<br/>
+
 - python
+
 <br/>
 
 ```python
