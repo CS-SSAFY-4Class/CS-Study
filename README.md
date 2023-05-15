@@ -7,32 +7,39 @@
 
 ## 👪 부원
 
-|<b>이름|순서|역할|대주제|
-|---|---|---|---|
-|<b>김한주</b>|<b>1번</b>|<b>스터디장</b>|Computer Architecture|
-|<b>박원서</b>|<b>2번</b>|<b>부원</b>|Software Engineering|
-|<b>임준수</b>|<b>3번</b>|<b>부원</b>|Operating System|
-|<b>서재현</b>|<b>4번</b>|<b>부원</b>|Data Structure|
-|<b>김관형</b>|<b>5번</b>|<b>부원</b>|Web|
-|<b>류정모</b>|<b>6번</b>|<b>부원</b>|Algorithm|
+|<b>이름|순서|역할|대주제1|대주제2|
+|---|---|---|---|---|
+|<b>김한주</b>|<b>1번</b>|<b>스터디장</b>|Computer Architecture|Database|
+|<b>박원서</b>|<b>2번</b>|<b>부원</b>|Software Engineering||
+|<b>임준수</b>|<b>3번</b>|<b>부원</b>|Operating System||
+|<b>서재현</b>|<b>4번</b>|<b>부원</b>|Data Structure||
+|<b>김관형</b>|<b>5번</b>|<b>부원</b>|Web||
+|<b>류정모</b>|<b>6번</b>|<b>부원</b>|Algorithm||
 <br>
 
 ## 💬 이 주의 코멘트
 
-### 3월 1주차
+### 5월 1주차
 |<b>이름</b>|<b>주제</b>|<b>코멘트</b>|
 |---|---|---|
-|김한주|[캐시 메모리](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Computer_architecture/%EC%BA%90%EC%8B%9C%EB%A9%94%EB%AA%A8%EB%A6%AC.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Computer_architecture/c%EC%BA%90%EC%8B%9C%EB%A9%94%EB%AA%A8%EB%A6%AC.md)|
-|박원서|[클린코드](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Software_Engineering/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C%20%26%20%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81%20%26%20%EC%8B%9C%ED%81%90%EC%96%B4%20%EC%BD%94%EB%93%9C.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Software_Engineering/c%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C%20%26%20%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81%20%26%20%EC%8B%9C%ED%81%90%EC%96%B4%20%EC%BD%94%EB%94%A9.md)|
+|김한주|[SQL JOIN](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Database/SQL_Join.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Database/cSQL_Join.md)|
+|박원서|[]()|[comment]()|
+|임준수|[IPC](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Operating_system/07_IPC.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Operating_system/cIPC.md)|
+  
+### 5월 2주차
+|<b>이름</b>|<b>주제</b>|<b>코멘트</b>|
+|---|---|---|
+|서재현|[이진탐색트리](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Data_structure/BST.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Data_structure/cBST.md)|
+|김관형|[CSR&SSR](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Web/CSR%26SSR.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Web/cCSR%26SSR.md)|
+|류정모|[Heap_Sort](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Algorithm/Heap_sort.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Algorithm/cHeap_sort.md)|
+  
+### 5월 1주차
+|<b>이름</b>|<b>주제</b>|<b>코멘트</b>|
+|---|---|---|
+|김한주|[SQL Injection](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Database/SQL_Injection.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Database/cSQL_Injection.md)|
+|박원서|[]()|[comment]()|
+|임준수|[]()|[comment]()|
 
-### 3월 2주차
-|<b>이름</b>|<b>주제</b>|<b>코멘트</b>|
-|---|---|---|
-|임준수|[운영체제란](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Operating_system/01_%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Operating_system/c%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C.md)|
-|서재현|[배열(Array)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Data_structure/Array.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Data_structure/c%EB%B0%B0%EC%97%B4(Array).md)|
-|김관형|[쿠키와세션](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Web/%EC%BF%A0%ED%82%A4(Cookie)%26%EC%84%B8%EC%85%98(Session)/%EC%BF%A0%ED%82%A4%26%EC%84%B8%EC%85%98.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Web/c%EC%BF%A0%ED%82%A4%EC%99%80%EC%84%B8%EC%85%98.md)|
-|류정모|[BubbleSort](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Algorithm/Bubble_sort.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Algorithm/cBubble_sort.md)|
-|김한주|[주기억장치(RAM) 작동 원리](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Computer_architecture/%EC%A3%BC%EA%B8%B0%EC%96%B5%EC%9E%A5%EC%B9%98%EC%9E%91%EB%8F%99%EC%9B%90%EB%A6%AC.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/tree/main/Comment/Computer_science/Computer_architecture)|
 <br>
 
 ## 📅 이달의 달력
@@ -40,20 +47,18 @@
 업로드 순번을 기입해놓은 달력입니다.  
 보시고 업로드 까먹지 마시길 바랍니다!
 
-### 3월
+### 5월
 
-|<b>월|화|수|목|금|토|일|
-|---|---|---|---|---|---|---|
-|||1|2|3|4|5|
-|||😴|1번|2번|😴|😴|
-|6|7|8|9|10|11|12|
-|3번|4번|5번|6번|1번|😴|😴|
-|13|14|15|16|17|18|19|
-|2번|3번|4번|5번|6번|😴|😴|
-|20|21|22|23|24|25|26|
-|1번|2번|3번|4번|5번|😴|😴|
-|27|28|29|30|31|||
-|6번|1번|2번|3번|4번|||
+|<b>월</b>|<b>수</b>|<b>금</b>|
+|---|---|---|
+|1|3|5|
+|김한주|박원서|임준수|
+|8|10|12|
+|서재현|김관형|류정모|
+|15|17|19|
+|김한주|박원서|임준수|
+|22|24|26|
+|서재현|김관형|류정모|
 <br>
 
 ## 📝 규칙
@@ -77,7 +82,7 @@
 
 📆 <b>스터디 진행일</b>  
 
-매주 월~금까지 (주말은 각자 할 일 합시다)  
+매주 월 수 금 (주말은 각자 할 일 합시다)  
 
 ✒️ <b>주제 선정</b>  
 
@@ -117,26 +122,32 @@
 [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Computer_architecture/c%EC%BA%90%EC%8B%9C%EB%A9%94%EB%AA%A8%EB%A6%AC.md)<br>
 [고정 소수점 & 부동 소수점](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Computer_architecture/%EA%B3%A0%EC%A0%95%EC%86%8C%EC%88%98%EC%A0%90%26%EB%B6%80%EB%8F%99%EC%86%8C%EC%88%98%EC%A0%90.md)
 [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Computer_architecture/c%EA%B3%A0%EC%A0%95%EC%86%8C%EC%88%98%EC%A0%90%26%EB%B6%80%EB%8F%99%EC%86%8C%EC%88%98%EC%A0%90.md)<br> 
-패리티 비트 & 해밍 코드  
+[패리티 비트 & 해밍 코드](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Computer_architecture/%ED%8C%A8%EB%A6%AC%ED%8B%B0%EB%B9%84%ED%8A%B8&%ED%95%B4%EB%B0%8D%EC%BD%94%EB%93%9C.md) [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Computer_architecture/c%ED%8C%A8%EB%A6%AC%ED%8B%B0%EB%B9%84%ED%8A%B8%26%ED%95%B4%EB%B0%8D%EC%BD%94%EB%93%9C.md)<br>
 ARM 프로세서  
 
-#### 2️⃣ Data Structure  
-[배열(Array)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Data_structure/Array.md) 
+#### 2️⃣ Data Structure
+[배열(Array)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Data_structure/Array.md)
 [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Data_structure/c%EB%B0%B0%EC%97%B4(Array).md)  
-LinkedList  
-Array & ArrayList & LinkedList  
-스택(Stack) & 큐(Queue)  
-힙(Heap)  
-트리(Tree)  
-이진탐색트리(Binary Search Tree)  
+[LinkedList](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Data_structure/LinkedList.md)
+[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Data_structure/cLinked%20List.md)  
+[스택(Stack)&큐(Queue)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Data_structure/Stack_Queue.md)
+[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Data_structure/c%EC%8A%A4%ED%83%9D%EA%B3%BC%ED%81%90.md)  
+[힙(Heap)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Data_structure/Heap.md)
+[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Data_structure/c%ED%9E%99(Heap).md)  
+[트리(Tree)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Data_structure/Tree.md)
+[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Data_structure/c%ED%8A%B8%EB%A6%AC(Tree).md)  
+[이진탐색트리(Binary Search Tree)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Data_structure/BST.md)
+[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Data_structure/cBST.md)  
 해시(Hash)  
 트라이(Trie)  
 B-Tree & B+Tree  
 
 #### 3️⃣ Database
-키(Key) 정리  
-SQL - JOIN  
-SQL Injection  
+[데이터베이스란](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Database/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EB%9E%80.md) 
+[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Database/c%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EB%9E%80.md)<br>
+[키(Key) 정리](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Database/%ED%82%A4%EC%A0%95%EB%A6%AC.md) [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Database/c%ED%82%A4%EC%A0%95%EB%A6%AC.md)<br>
+[SQL - JOIN](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Database/SQL_Join.md) [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Database/cSQL_Join.md)<br>
+[SQL Injection](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Database/SQL_Injection.md) [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Database/cSQL_Injection.md)<br>
 SQL vs NoSQL  
 정규화(Normalization)  
 이상(Anomaly)  
@@ -163,11 +174,16 @@ Blocking & Non-Blocking I/O
 [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Operating_system/c%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C.md)<br>
 [프로세스 vs 스레드](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Operating_system/02_%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4vs%EC%8A%A4%EB%A0%88%EB%93%9C.md)
 [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Operating_system/c%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4vs%EC%8A%A4%EB%A0%88%EB%93%9C.md)<br>
-프로세스 주소 공간  
-인터럽트(Interrupt)  
-시스템 콜(System Call)  
-PCB와 Context Switching  
-IPC(Inter Process Communication)  
+[프로세스 주소 공간](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Operating_system/03_%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%A3%BC%EC%86%8C%EA%B3%B5%EA%B0%84.md)
+[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Operating_system/c%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%A3%BC%EC%86%8C%EA%B3%B5%EA%B0%84.md)<br>
+[인터럽트(Interrupt)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Operating_system/04_%EC%9D%B8%ED%84%B0%EB%9F%BD%ED%8A%B8.md)
+[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Operating_system/c%EC%9D%B8%ED%84%B0%EB%9F%BD%ED%8A%B8.md)<br>
+[시스템 콜(System Call)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Operating_system/05_%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%BD%9C.md)
+[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Operating_system/c%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%BD%9C.md)<br>
+[PCB와 Context Switching](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Operating_system/06_PCB%EC%99%80_Context_Switching.md)
+[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Operating_system/cPCB%EC%99%80_Context_Switching.md)<br>
+[IPC(Inter Process Communication)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Operating_system/07_IPC.md)
+[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Operating_system/cIPC.md)<br>
 CPU 스케줄링  
 데드락(DeadLock)  
 Race Condition  
@@ -180,9 +196,13 @@ Race Condition
 #### 6️⃣ Software Engineering
 [클린코드 & 리팩토링 / 클린코드 & 시큐어코딩](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Software_Engineering/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C%20%26%20%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81%20%26%20%EC%8B%9C%ED%81%90%EC%96%B4%20%EC%BD%94%EB%93%9C.md)
 [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Software_Engineering/c%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C%20%26%20%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81%20%26%20%EC%8B%9C%ED%81%90%EC%96%B4%20%EC%BD%94%EB%94%A9.md)<br>
-TDD(Test Driven Development)  
-애자일(Agile) 정리1 / 애자일(Agile) 정리2  
-객체 지향 프로그래밍(Object-Oriented Programming)  
+[TDD(Test Driven Development)](./Computer_science/Software_Engineering/TDD(Test_Driven_Development).md)
+[comment](./Comment/Computer_science/Software_Engineering/cTDD(Test_Driven_Development).md)  
+[소프트웨어 개발](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Software_Engineering/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%EA%B0%9C%EB%B0%9C.md)
+[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Software_Engineering/c%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%EA%B0%9C%EB%B0%9C.md)  
+[애자일(Agile) 정리1 / 애자일(Agile) 정리2](./Computer_science/Software_Engineering/Agile/Agile.md) [comment](./Comment/Computer_science/Software_Engineering/cAgile.md)  
+[객체 지향 프로그래밍(Object-Oriented Programming)-1](./Computer_science/Software_Engineering/OOP(object-oriented_programming)_1.md)  
+[객체 지향 프로그래밍(Object-Oriented Programming)-2](./Computer_science/Software_Engineering/OOP_2.md)  
 함수형 프로그래밍(Fuctional Programming)  
 데브옵스(DevOps)  
 서드 파티(3rd party)란?  
@@ -201,11 +221,11 @@ TDD(Test Driven Development)
 [알고리즘 성능 측정(시간복잡도)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Algorithm/%EC%8B%9C%EA%B0%84%EB%B3%B5%EC%9E%A1%EB%8F%84/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%98%20%EC%84%B1%EB%8A%A5%20%EB%B6%84%EC%84%9D.md)
 [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Algorithm/c%EC%8B%9C%EA%B0%84%EB%B3%B5%EC%9E%A1%EB%8F%84.md)    
 [거품 정렬(Bubble Sort)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Algorithm/Bubble_sort.md) [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Algorithm/cBubble_sort.md)     
-선택 정렬(Selection Sort)  
-삽입 정렬(Insertion Sort)  
-퀵 정렬(Quick Sort)  
-병합 정렬(Merge Sort)  
-힙 정렬(Heap Sort)  
+[선택 정렬(Selection Sort)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Algorithm/Selection_sort.md) [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Algorithm/cSelection_sort.md)  
+[삽입 정렬(Insertion Sort)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Algorithm/Insertion_sort.md) [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Algorithm/cInsertion_sort.md)    
+[퀵 정렬(Quick Sort)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Algorithm/Quick_sort.md) [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Algorithm/cQuick_sort.md)     
+[병합 정렬(Merge Sort)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Algorithm/Merge_sort.md) [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Algorithm/cMerge_sort.md)    
+[힙 정렬(Heap Sort)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Algorithm/Heap_sort.md) [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Algorithm/cHeap_sort.md)    
 기수 정렬(Radix Sort)  
 계수 정렬(Count Sort)  
 이분 탐색(Binary Search)  
@@ -222,16 +242,20 @@ DFS & BFS
 브라우저 동작 방법  
 [쿠키(Cookie) & 세션(Session)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Web/%EC%BF%A0%ED%82%A4(Cookie)%26%EC%84%B8%EC%85%98(Session)/%EC%BF%A0%ED%82%A4%26%EC%84%B8%EC%85%98.md) 
 [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Web/c%EC%BF%A0%ED%82%A4%EC%99%80%EC%84%B8%EC%85%98.md)<br>
-HTTP Request Methods  
-HTTP Status Code  
-REST API  
+[HTTP Request Methods](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Web/HTTP_Request_Methods.md) 
+[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Web/cHTTP_Request_Method.md)  
+[HTTP Status Code](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Web/HTTP_Status_Code.md) 
+[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Web/cHTTP_Status_Code.md)  
+[REST API](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Web/REST_API.md) 
+[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Web/cREST_API.md)  
 웹 서버와 WAS의 차이점  
 OAuth  
 JWT(JSON Web Token)  
 Authentication and Authorization  
 로그 레벨  
 UI와 UX  
-CSR & SSR  
+[CSR & SSR](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Web/CSR%26SSR.md) 
+[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Web/cCSR%26SSR.md)  
 Vue.js vs React  
 네이티브 앱 & 웹 앱 & 하이브리드 앱  
 PWA(Progressive Web App)  
