@@ -31,7 +31,7 @@
 |---|---|---|
 |서재현|[이진탐색트리](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Data_structure/BST.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Data_structure/cBST.md)|
 |김관형|[CSR&SSR](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Web/CSR%26SSR.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Web/cCSR%26SSR.md)|
-|류정모|[]()|[comment]()|
+|류정모|[Heap_Sort](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Algorithm/Heap_sort.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Algorithm/cHeap_sort.md)|
   
 ### 5월 1주차
 |<b>이름</b>|<b>주제</b>|<b>코멘트</b>|
@@ -225,7 +225,7 @@ Race Condition
 [삽입 정렬(Insertion Sort)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Algorithm/Insertion_sort.md) [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Algorithm/cInsertion_sort.md)    
 [퀵 정렬(Quick Sort)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Algorithm/Quick_sort.md) [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Algorithm/cQuick_sort.md)     
 [병합 정렬(Merge Sort)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Algorithm/Merge_sort.md) [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Algorithm/cMerge_sort.md)    
-힙 정렬(Heap Sort)  
+[힙 정렬(Heap Sort)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Algorithm/Heap_sort.md) [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Algorithm/cHeap_sort.md)    
 기수 정렬(Radix Sort)  
 계수 정렬(Count Sort)  
 이분 탐색(Binary Search)  
