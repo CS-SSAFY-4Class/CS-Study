@@ -113,6 +113,6 @@ SELECT * FROM Users WHERE id = 'abc123' and (LENGTH(DATABASE())=1 AND SLEEP(2)) 
 <br><br>
 
 ## 참고 문서
-[NoirStar Space](https://noirstar.tistory.com/264)
-[익스플로의 아카이브](https://iksflow.tistory.com/127)
+[NoirStar Space](https://noirstar.tistory.com/264)  
+[익스플로의 아카이브](https://iksflow.tistory.com/127)  
 [shionista의 보안블로그](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=is_king&logNo=221402635339)
