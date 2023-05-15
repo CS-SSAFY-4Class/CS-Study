@@ -19,20 +19,6 @@
 
 ## 💬 이 주의 코멘트
 
-### 4월 3주차
-|<b>이름</b>|<b>주제</b>|<b>코멘트</b>|
-|---|---|---|
-|김한주|[키(Key) 정리](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Database/%ED%82%A4%EC%A0%95%EB%A6%AC.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Database/c%ED%82%A4%EC%A0%95%EB%A6%AC.md)|
-|박원서|[OOP_1부](./Computer_science/Software_Engineering/OOP(object-oriented_programming)_1.md)|[comment](./Comment/Computer_science/Software_Engineering/cOOP_1.md)|
-|임준수|[PCB와 C.S](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Operating_system/06_PCB%EC%99%80_Context_Switching.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Operating_system/cPCB%EC%99%80_Context_Switching.md)|
-
-### 4월 4주차
-|<b>이름</b>|<b>주제</b>|<b>코멘트</b>|
-|---|---|---|
-|서재현|[트리(Tree)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Data_structure/Tree.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Data_structure/c%ED%8A%B8%EB%A6%AC(Tree).md)|
-|김관형|[HTTP Status Code](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Web/HTTP_Status_Code.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Web/cHTTP_Status_Code.md)|
-|류정모|[Merge_sort](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Algorithm/Merge_sort.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Algorithm/cMerge_sort.md)|
-
 ### 5월 1주차
 |<b>이름</b>|<b>주제</b>|<b>코멘트</b>|
 |---|---|---|
@@ -46,6 +32,13 @@
 |서재현|[이진탐색트리](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Data_structure/BST.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Data_structure/cBST.md)|
 |김관형|[CSR&SSR](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Web/CSR%26SSR.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Web/cCSR%26SSR.md)|
 |류정모|[]()|[comment]()|
+  
+### 5월 1주차
+|<b>이름</b>|<b>주제</b>|<b>코멘트</b>|
+|---|---|---|
+|김한주|[SQL Injection]()|[comment]()|
+|박원서|[]()|[comment]()|
+|임준수|[]()|[comment]()|
 
 <br>
 
