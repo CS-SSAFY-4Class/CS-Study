@@ -34,7 +34,7 @@
 |류정모|[Heap_Sort](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Algorithm/Heap_sort.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Algorithm/cHeap_sort.md)|
   
 ### 5월 3주차
-| < b > 이름 </ b > | < b > 주제 </ b > | < b > 코멘트 </ b > |
+| <b> 이름 </b> | <b> 주제 </b> | <b> 코멘트 </b> |
 |---|---|---|
 |김한주|[SQL Injection](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Database/SQL_Injection.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Database/cSQL_Injection.md)|
 |박원서|[OOP_2](./Computer_science/Software_Engineering/OOP_2.md)|[comment](./Comment/Computer_science/Software_Engineering/cOOP_2.md)|
