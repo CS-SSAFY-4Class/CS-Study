@@ -22,7 +22,7 @@
 ### 6월 2주차
 |<b>이름</b>|<b>주제</b>|<b>코멘트</b>|
 |---|---|---|
-|김한주|[]()|[comment]()|
+|김한주|[SQL vs NoSQL](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Database/SQL_NoSQL.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Database/cSQL_NoSQL.md)|
 |박원서|[]()|[comment]()|
 |임준수|[]()|[comment]()|
   
@@ -132,7 +132,7 @@ B-Tree & B+Tree
 [키(Key) 정리](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Database/%ED%82%A4%EC%A0%95%EB%A6%AC.md) [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Database/c%ED%82%A4%EC%A0%95%EB%A6%AC.md)<br>
 [SQL - JOIN](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Database/SQL_Join.md) [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Database/cSQL_Join.md)<br>
 [SQL Injection](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Database/SQL_Injection.md) [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Database/cSQL_Injection.md)<br>
-SQL vs NoSQL  
+[SQL vs NoSQL](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Database/SQL_NoSQL.md) [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Database/cSQL_NoSQL.md)<br>
 정규화(Normalization)  
 이상(Anomaly)  
 인덱스(INDEX)  
