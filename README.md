@@ -29,8 +29,7 @@
 ### 6월 3주차
 |<b>이름</b>|<b>주제</b>|<b>코멘트</b>|
 |---|---|---|
-|서재현|[해시(Hash)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Data_structure/Hash.md)|
-[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Data_structure/c%ED%95%B4%EC%8B%9C(Hash).md)|
+|서재현|[해시(Hash)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Data_structure/Hash.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Data_structure/c%ED%95%B4%EC%8B%9C(Hash).md)|
 |김관형|[]()|[comment]()|
 |류정모|[]()|[comment]()|
   
@@ -130,7 +129,7 @@ ARM 프로세서
 [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Data_structure/c%ED%8A%B8%EB%A6%AC(Tree).md)  
 [이진탐색트리(Binary Search Tree)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Data_structure/BST.md)
 [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Data_structure/cBST.md)  
-해시(Hash)(https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Data_structure/Hash.md) [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Data_structure/c%ED%95%B4%EC%8B%9C(Hash).md)  
+[해시(Hash)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Data_structure/Hash.md) [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Data_structure/c%ED%95%B4%EC%8B%9C(Hash).md)  
 트라이(Trie)  
 B-Tree & B+Tree  
 
