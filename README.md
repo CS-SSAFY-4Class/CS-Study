@@ -36,7 +36,7 @@
 ### 6월 4주차
 |<b>이름</b>|<b>주제</b>|<b>코멘트</b>|
 |---|---|---|
-|김한주|[정규화]()|[comment]()|
+|김한주|[정규화](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Database/Normalization.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Database/cNormalization.md)|
 |박원서|[]()|[comment]()|
 |임준수|[]()|[comment]()|
 <br>
@@ -146,7 +146,7 @@ B-Tree & B+Tree
 [SQL - JOIN](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Database/SQL_Join.md) [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Database/cSQL_Join.md)<br>
 [SQL Injection](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Database/SQL_Injection.md) [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Database/cSQL_Injection.md)<br>
 [SQL vs NoSQL](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Database/SQL_NoSQL.md) [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Database/cSQL_NoSQL.md)<br>
-정규화(Normalization)  
+[정규화(Normalization)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Database/Normalization.md) [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Database/cNormalization.md)<br>
 이상(Anomaly)  
 인덱스(INDEX)  
 트랜잭션(Transaction)  
