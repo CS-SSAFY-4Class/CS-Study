@@ -32,7 +32,13 @@
 |서재현|[해시(Hash)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Data_structure/Hash.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Data_structure/c%ED%95%B4%EC%8B%9C(Hash).md)|
 |김관형|[]()|[comment]()|
 |류정모|[]()|[comment]()|
-  
+
+### 6월 4주차
+|<b>이름</b>|<b>주제</b>|<b>코멘트</b>|
+|---|---|---|
+|김한주|[정규화]()|[comment]()|
+|박원서|[]()|[comment]()|
+|임준수|[]()|[comment]()|
 <br>
 
 ## 📅 이달의 달력
