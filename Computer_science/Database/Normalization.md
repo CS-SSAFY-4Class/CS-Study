@@ -78,7 +78,7 @@
 104|VIP|40%
 
 >고객 코드를 보면 등급을 알 수 있고, 등급을 보면 할인율을 알 수 있음  
->즉, 이행종속성이 위반되므로 테이블을 나눠야한다.
+>즉, 이행종속성이 위반되므로 테이블을 나눠야한다.(기본키 -> 기본키 -> 속성값)
 
 고객코드|등급||등급|할인율
 ---|---|---|---|---
@@ -87,4 +87,23 @@
 103|Gold||Gold|30%|
 104|VIP||VIP|40%|
 
+<br>
 
+# BCNF (Boyce-Codd Normal Form)
+
+## 정의
+1. 모든 결정자가 후보키 집합에 속함
+2. 제 3정규형을 조금 더 강화한 버전
+3. 즉, 후보키 집합에 없는 칼럼이 결정자가 되어서는 안 된다는 뜻
+
+## 예시
+![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FtpoYs%2Fbtrj0WF7W9S%2FLzze4LuSZFnkaOxBFinSlK%2Fimg.png)
+>위 경우, 동일한 과목을 가르치는 교수들이 존재
+>그러므로 아래와 같이 분할해야함
+
+![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbDpCpQ%2FbtrP9j99LpS%2F4SlIuGmJLNSCsoWvLARRtK%2Fimg.png)
+
+## 4,5 정규형을 잘 쓰지 않는 이유
+- Join 연산이 많아짐
+- 질의에 대한 응답 속도가 느려질 수 있음
+- 즉, 반정규성이 나타날 수 있음
