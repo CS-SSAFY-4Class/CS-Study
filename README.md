@@ -184,7 +184,7 @@ Blocking & Non-Blocking I/O
 [CPU 스케줄링](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Operating_system/08_CPU%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81.md)
 [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Operating_system/c08_CPU%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81.md)<br>
 [데드락(DeadLock)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Operating_system/09_%EB%8D%B0%EB%93%9C%EB%9D%BD.md)
-[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Operating_system/c09_%EB%8D%B0%EB%93%9C%EB%9D%BD.md)
+[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Operating_system/c09_%EB%8D%B0%EB%93%9C%EB%9D%BD.md)<br>
 Race Condition  
 세마포어(Semaphore) & 뮤텍스(Mutex)  
 페이징 & 세그먼테이션 (PDF)  
