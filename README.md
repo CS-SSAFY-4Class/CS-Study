@@ -30,7 +30,7 @@
 |<b>이름</b>|<b>주제</b>|<b>코멘트</b>|
 |---|---|---|
 |서재현|[해시(Hash)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Data_structure/Hash.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Data_structure/c%ED%95%B4%EC%8B%9C(Hash).md)|
-|김관형|[]()|[comment]()|
+|김관형|[OAuth](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Web/OAuth.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Web/cOAuth.md)|
 |류정모|[기수정렬](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Algorithm/Radix_sort.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Algorithm/cRadix_sort.md)|
 
 ### 6월 4주차
@@ -248,7 +248,8 @@ DFS & BFS
 [REST API](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Web/REST_API.md) 
 [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Web/cREST_API.md)  
 웹 서버와 WAS의 차이점  
-OAuth  
+[OAuth](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Web/OAuth.md) 
+[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Web/cOAuth.md)  
 JWT(JSON Web Token)  
 Authentication and Authorization  
 로그 레벨  
