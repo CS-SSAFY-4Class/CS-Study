@@ -24,7 +24,7 @@
 |---|---|---|
 |김한주|[SQL vs NoSQL](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Database/SQL_NoSQL.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Database/cSQL_NoSQL.md)|
 |박원서|[]()|[comment]()|
-|임준수|[CPU스케줄링](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Operating_system/08_CPU%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Operating_system/c08_CPU%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81.md)|
+|임준수|[CPU 스케줄링](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Operating_system/08_CPU%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Operating_system/c08_CPU%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81.md)|
 
 ### 6월 3주차
 |<b>이름</b>|<b>주제</b>|<b>코멘트</b>|
