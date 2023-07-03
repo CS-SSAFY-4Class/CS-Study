@@ -23,7 +23,7 @@
 |<b>이름</b>|<b>주제</b>|<b>코멘트</b>|
 |---|---|---|
 |김한주|[SQL vs NoSQL](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Database/SQL_NoSQL.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Database/cSQL_NoSQL.md)|
-|박원서|[함수형 프로그래밍](./Computer_science/Software_Engineering/함수형 프로그래밍(functional programming).md)|[comment](./Comment/Computer_science/Software_Engineering/함수형 프로그래밍(functional programming).md)|
+|박원서|[함수형 프로그래밍](./Computer_science/Software_Engineering/%ED%95%A8%EC%88%98%ED%98%95%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D(functional%20programming).md)|[comment](./Comment/Computer_science/Software_Engineering/c%ED%95%A8%EC%88%98%ED%98%95%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D(functional%20programming).md)|
 |임준수|[CPU 스케줄링](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Operating_system/08_CPU%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Operating_system/c08_CPU%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81.md)|
 
 ### 6월 3주차
@@ -202,8 +202,8 @@ Race Condition
 [애자일(Agile) 정리1 / 애자일(Agile) 정리2](./Computer_science/Software_Engineering/Agile/Agile.md) [comment](./Comment/Computer_science/Software_Engineering/cAgile.md)  
 [객체 지향 프로그래밍(Object-Oriented Programming)-1](./Computer_science/Software_Engineering/OOP(object-oriented_programming)_1.md) [comment](./Comment/Computer_science/Software_Engineering/cOOP_1.md)  
 [객체 지향 프로그래밍(Object-Oriented Programming)-2](./Computer_science/Software_Engineering/OOP_2.md) [comment]((./Comment/Computer_science/Software_Engineering/cOOP_2.md))  
-[함수형 프로그래밍(Fuctional Programming)](./Computer_science/Software_Engineering/함수형 프로그래밍(functional programming).md)
-[comment](./Comment/Computer_science/Software_Engineering/함수형 프로그래밍(functional programming).md)  
+[함수형 프로그래밍(Fuctional Programming)](./Computer_science/Software_Engineering/%ED%95%A8%EC%88%98%ED%98%95%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D(functional%20programming).md)
+[comment](./Comment/Computer_science/Software_Engineering/c%ED%95%A8%EC%88%98%ED%98%95%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D(functional%20programming).md)  
 데브옵스(DevOps)  
 서드 파티(3rd party)란?  
 마이크로서비스 아키텍처(MSA)  
