@@ -227,7 +227,7 @@ Race Condition
 [병합 정렬(Merge Sort)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Algorithm/Merge_sort.md) [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Algorithm/cMerge_sort.md)    
 [힙 정렬(Heap Sort)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Algorithm/Heap_sort.md) [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Algorithm/cHeap_sort.md)    
 [기수 정렬(Radix Sort)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Algorithm/Radix_sort.md)  [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Algorithm/cRadix_sort.md)    
-계수 정렬(Count Sort)  
+[계수 정렬(Count Sort)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Algorithm/Counting_sort.md)  [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Algorithm/cCounting_sort.md)      
 이분 탐색(Binary Search)  
 해시 테이블 구현  
 DFS & BFS  
