@@ -1,4 +1,4 @@
-# Couning Sort
+# Counting Sort
 
 
 <br/>
