@@ -39,6 +39,14 @@
 |김한주|[정규화](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Database/Normalization.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Database/cNormalization.md)|
 |박원서|[]()|[comment]()|
 |임준수|[데드락](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Operating_system/09_%EB%8D%B0%EB%93%9C%EB%9D%BD.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Operating_system/c09_%EB%8D%B0%EB%93%9C%EB%9D%BD.md)|
+
+### 7월 1주차
+|<b>이름</b>|<b>주제</b>|<b>코멘트</b>|
+|---|---|---|
+|서재현|[]|[comment]|
+|김관형|[]|[comment]|
+|류정모|[Counting_sort](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Algorithm/Counting_sort.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Algorithm/cCounting_sort.md)|
+
 <br>
 
 ## 📅 이달의 달력
