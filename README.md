@@ -43,8 +43,8 @@
 ### 7월 1주차
 |<b>이름</b>|<b>주제</b>|<b>코멘트</b>|
 |---|---|---|
-|서재현|[]|[comment]|
-|김관형|[]|[comment]|
+|서재현|[주제]()|[comment]()|
+|김관형|[주제]()|[comment]()|
 |류정모|[Counting_sort](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Algorithm/Counting_sort.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Algorithm/cCounting_sort.md)|
 
 <br>
