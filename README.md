@@ -43,7 +43,7 @@
 ### 7월 1주차
 |<b>이름</b>|<b>주제</b>|<b>코멘트</b>|
 |---|---|---|
-|서재현|[주제]()|[comment]()|
+|서재현|[트라이(Trie)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Data_structure/Trie.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Data_structure/.c%ED%8A%B8%EB%9D%BC%EC%9D%B4(Trie).md)|
 |김관형|[주제]()|[comment]()|
 |류정모|[Counting_sort](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Algorithm/Counting_sort.md)|[comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Algorithm/cCounting_sort.md)|
 
@@ -163,7 +163,7 @@ ARM 프로세서
 [이진탐색트리(Binary Search Tree)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Data_structure/BST.md)
 [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Data_structure/cBST.md)  
 [해시(Hash)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Data_structure/Hash.md) [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Data_structure/c%ED%95%B4%EC%8B%9C(Hash).md)  
-트라이(Trie)  
+[트라이(Trie)](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Computer_science/Data_structure/Trie.md) [comment](https://github.com/CS-SSAFY-4Class/CS-Study/blob/main/Comment/Computer_science/Data_structure/.c%ED%8A%B8%EB%9D%BC%EC%9D%B4(Trie).md)  
 B-Tree & B+Tree  
 
 #### 3️⃣ Database
